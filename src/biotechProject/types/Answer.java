@@ -4,3 +4,4 @@ public class Answer {
 public String ans;
 public double score;
 }
+
