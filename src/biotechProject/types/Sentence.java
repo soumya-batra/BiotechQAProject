@@ -31,4 +31,8 @@ public class Sentence {
 	public String getTextString() {
 		return textString;
 	}
+	
+        public List<Token> getTokenList() {
+		return tokenList;
+	}
 }
