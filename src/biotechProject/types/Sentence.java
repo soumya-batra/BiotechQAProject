@@ -7,7 +7,6 @@ import java.util.StringTokenizer;
 public class Sentence {
 	List<Token> tokenList;
 	private double sentenceScore;
-	private boolean isSelected;
 	private String textString;
 
 	public Sentence(String text) {
@@ -27,14 +26,6 @@ public class Sentence {
 
 	public double getSentenceScore() {
 		return sentenceScore;
-	}
-
-	public void setIsSelected(boolean isSelected) {
-		this.isSelected = isSelected;
-	}
-
-	public boolean getIsSelected() {
-		return isSelected;
 	}
 
 	public String getTextString() {
