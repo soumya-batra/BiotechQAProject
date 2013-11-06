@@ -1,6 +1,7 @@
 //Modified By Haodong 
 package biotechProject.types;
 
+import java.util.ArrayList;
 import java.util.List;
 import java.util.StringTokenizer;
 
@@ -12,6 +13,7 @@ public class Sentence {
 	public Sentence(String text) {
 		textString = text;
 		sentenceScore = 0;
+		tokenList = new ArrayList<Token>();
 		// break down input string into tokens
 		StringTokenizer tokenizer = new StringTokenizer(text);
 		while (tokenizer.hasMoreTokens()) {

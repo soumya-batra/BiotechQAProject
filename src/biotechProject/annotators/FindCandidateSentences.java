@@ -15,7 +15,7 @@ import biotechProject.types.Token;
 
 public class FindCandidateSentences {
 
-	private static ArrayList<Sentence> candidates = null;
+	private static ArrayList<Sentence> candidates = new ArrayList<Sentence>();
 	private static FileReader fr = null;
 	private static BufferedReader br = null;
 	
@@ -28,11 +28,16 @@ public class FindCandidateSentences {
 		int i;
 		double confidence = 0.0;
 		
+		String body = "";
 
 		// Read all pre-processed documents in the folder
-		File[] directory = new File(folder).listFiles();
+		File fold = new File(folder);
+		File[] directory = fold.listFiles();
+		String temp = new String();
+		
 		for (File file : directory) {
 			space = "";
+			body = "";
 			if (file.isFile()) {
 				try {
 					fr = new FileReader(file);
@@ -40,27 +45,49 @@ public class FindCandidateSentences {
 
 					while ((line = br.readLine()) != null) {
 						if (line.startsWith("<article-title>")) {
-							while ((i = line.indexOf("</article-title>")) == -1) {
-								space += line;
-								line = br.readLine();
+							space = line.substring(15);
+							if((i=line.indexOf("</article-title>")) != -1)
+							{
+							temp = line;
+							line = br.readLine();
 							}
-							space = space.substring(14)
-									+ line.substring(0, i + 1);
+							else {					
+							while ((i = line.indexOf("</article-title>")) == -1) {
+								line = br.readLine();
+								space += line;
+								temp = line;
+							}
+							}
+space = space.substring(0, space.length()-16);
 
 							findCandidates(candidates, space, q, 'T');
 							space = "";
 						}
 
 						else if (line.startsWith("<abstract>")) {
-							while ((i = line.indexOf("</abstract>")) == -1) {
-								space += line;
-								line = br.readLine();
+							space = line.substring(10);
+							if((i=line.indexOf("</abstract>")) != -1)
+							{
+								temp = line;
+							line = br.readLine();
 							}
-							space = space.substring(14)
-									+ line.substring(0, i + 1);
+							else {
+							while ((i = line.indexOf("</abstract>")) == -1) {
+								line = br.readLine();
+								space += line;
+								temp = line;
+							}
+							}
+							space = space.substring(0, space.length()-11);
 
 							findCandidates(candidates, space, q ,'A');
 							space = "";
+							//break;
+						} else if (line.startsWith("<body>")) {
+							while (line.indexOf("</body>")==-1) {
+								body +=line;
+								line = br.readLine();
+							}
 							break;
 						}
 					}
@@ -69,14 +96,14 @@ public class FindCandidateSentences {
 						// Call CanddiateSentence_Haodong. Pass BufferedReader object br and confidence. Add candidates returned to 'candidates'.
 						; */
 					if(candidates.size() > 0)
-						getCandidateFromBody();
+						getCandidateFromBody(body, q);
 				} catch (FileNotFoundException e) {
 					// TODO Auto-generated catch block
 					e.printStackTrace();
 				} catch (IOException e) {
 					// TODO Auto-generated catch block
 					e.printStackTrace();
-				}
+				}                                                                                                            
 
 			}
 		}
@@ -92,7 +119,7 @@ try {
 		return candidates;
 	}
 
-	private static void findCandidates(ArrayList<Sentence> cands, String find,
+	private static void findCandidates(ArrayList<Sentence> candidates, String find,
 			Question q, char type) {
 		// TODO Auto-generated method stub
 
@@ -106,7 +133,7 @@ try {
 		for(i = 0; i < tokens.size(); i++)
 			perfect += tokens.get(i);
 		
-		StringTokenizer st = new StringTokenizer(find, ".!?");
+		StringTokenizer st = new StringTokenizer(find, ".!?",true);
 		
 		while(st.hasMoreTokens())
 		{
@@ -130,8 +157,12 @@ try {
 		} */
 		for(Token t : st2)
 		{
-			if(tokens.contains(t))
-				i++;
+			for(Token t1 : tokens)
+			{
+				if(t1.getText().equalsIgnoreCase(t.getText()) )
+						i++;
+			}
+
 			j++;
 		}
 
@@ -154,9 +185,22 @@ try {
 	}
 	
 	//Written by Haodong
-	private static void getCandidateFromBody()
+	private static void getCandidateFromBody(String body, Question q)
 	{
-		
+		StringTokenizer st = new StringTokenizer(body, ".!?");
+		while(st.hasMoreTokens())
+		{
+			Sentence s = new Sentence(st.nextToken());
+			int flag = 1;
+			for(Token token : q.getKeywordList()){
+				if (s.getTextString().indexOf(token.getText())<0) {
+					flag = 0;
+				}
+			}
+			if (flag == 1) {
+				candidates.add(s);
+			}
+		}
 	}
 
 }
