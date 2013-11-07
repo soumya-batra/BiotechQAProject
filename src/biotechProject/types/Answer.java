@@ -1,7 +1,29 @@
 package biotechProject.types;
 
 public class Answer {
-public String ans;
-public double score;
+private String ans = null;
+private double score = 0;
+public Answer(){
+	ans = null;
+	score = 0;
+}
+public Answer(String text){
+	ans = text;
+	score = 0;
+}
+public boolean SetScore(double s){
+	score = s;
+	return true;
+}
+public boolean SetText(String text){
+	ans = text;
+	return true;
+}
+public String GetText(){
+	return ans;
+}
+public double GetScore(){
+	return score;
+}
 }
 
