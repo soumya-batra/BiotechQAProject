@@ -18,7 +18,7 @@ public class Pipeline {
 		
 		QuestionAnalysis_Claire.printQuestionForTest(quest);
 		
-		ArrayList<Sentence> candidates = FindCandidateSentences.getCandidateSentences("/home/lenovo/git/Biotech_final/inputdata", quest);
+		ArrayList<Sentence> candidates = FindCandidateSentences.getCandidateSentences("E:/Eclipse Projects/workspace/BioFinalProject/document", quest);
 		for(Sentence st : candidates){
 			System.out.println(st.getTextString());
 			AnswerAnalysis_Anna.setCandidateAnswers(st.getTextString(), quest);

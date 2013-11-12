@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.StringTokenizer;
 
 public class Sentence {
-	List<Token> tokenList;
+	ArrayList<Token> tokenList;
 	private double sentenceScore;
 	private String textString;
 
@@ -33,8 +33,8 @@ public class Sentence {
 	public String getTextString() {
 		return textString;
 	}
-	
-        public List<Token> getTokenList() {
+
+	public ArrayList<Token> getTokenList() {
 		return tokenList;
 	}
 }

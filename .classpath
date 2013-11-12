@@ -2,8 +2,6 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
-	<classpathentry kind="lib" path="/home/lenovo/stanford-postagger-2013-06-20/stanford-postagger.jar"/>
-	<classpathentry kind="lib" path="/home/lenovo/stanford-postagger-2013-06-20/stanford-postagger-3.2.0.jar"/>
-	<classpathentry kind="lib" path="/home/lenovo/stanford-postagger-2013-06-20/stanford-postagger-3.2.0-src.jar"/>
+	<classpathentry kind="lib" path="E:/Eclipse Projects/workspace/BioFinalProject/stanford-postagger-2013-06-20/stanford-postagger-2013-06-20/stanford-postagger.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

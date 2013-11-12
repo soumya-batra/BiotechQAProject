@@ -1,0 +1,9 @@
+3 02 Treatment for most ocular bacterial infections is primarily empiric with broad-spectrum antibiotics, which are effective against the most common bacteria associated with these ocular infections
+3 03 However, the widespread use of broad-spectrum systemic antibiotics has resulted in a global increase in resistance among both Gram-positive and Gram-negative bacteria to a number of the older antibiotics as well as some of the newer fluoroquinolones used to treat ophthalmic infections
+5 04 104 Besifloxacin’s mechanism of action is similar to that of other fluoroquinolones in that it kills bacteria through inhibition of DNA gyrase and topoisomerase IV
+3 05 Our data suggest antibiotic release from the bone cement surface kills adhering bacteria adjacent to the surface with Copal being more effective in biofilm reduction than Palacos R-G
+5 06 The complement system efficiently kills bacteria
+5 07 Furthermore, the new compounds inhibit bacterial growth without toxicity to human cells, consistent with developing a new drug that kills bacteria without disturbing the human host
+5 14 A given compound can be called bactericidal when it kills bacteria rather than it inhibits the metabolism, i
+5 17 The results showed that: (A) the average H2O2 content in honey was over 900-fold lower than that observed in disinfectants that kills bacteria on contact
+3 18 g/ml gentamycin, an antibiotic that does not cross the cytoplasmic membrane of eukaryotic cells and then only kills bacteria not internalized in cells

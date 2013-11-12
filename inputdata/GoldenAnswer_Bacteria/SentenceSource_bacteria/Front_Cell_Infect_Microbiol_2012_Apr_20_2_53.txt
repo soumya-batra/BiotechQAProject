@@ -1,0 +1,208 @@
+<article-title>Antimicrobial Activities of Isothiocyanates Against Campylobacter jejuni Isolates</article-title>
+
+
+Edited by: Alain Stintzi, Ottawa Institute of Systems Biology, Canada
+
+Reviewed by: Qijing Zhang, Iowa State University, USA; Kelli L. Hiett, Agricultural Research Service, USA
+
+†Present address: Virginie Dufour and Christine Baysse, Gwennola Ermel and Christine Baysse, Microbiology Team, EA1254, University of Rennes 1, 35042 Rennes, France.
+<abstract>
+Food-borne human infection with Campylobacter jejuni is a medical concern in both industrialized and developing countries. Efficient eradication of C. jejuni reservoirs within live animals and processed foods is limited by the development of antimicrobial resistances and by practical problems related to the use of conventional antibiotics in food processes. We have investigated the bacteriostatic and bactericidal activities of two phytochemicals, allyl-isothiocyanate (AITC), and benzyl isothiocyanate (BITC), against 24 C. jejuni isolates from chicken feces, human infections, and contaminated foods, as well as two reference strains NCTC11168 and 81-176. AITC and BITC displayed a potent antibacterial activity against C. jejuni. BITC showed a higher overall antibacterial effect (MIC of 1.25–5??g?mL?1) compared to AITC (MIC of 50–200??g?mL?1). Both compounds are bactericidal rather than bacteriostatic. The sensitivity levels of C. jejuni isolates against isothiocyanates were neither correlated with the presence of a GGT (?-Glutamyl Transpeptidase) encoding gene in the genome, with antibiotic resistance nor with the origin of the biological sample. However the ggt mutant of C. jejuni 81-176 displayed a decreased survival rate compared to wild-type when exposed to ITC. This work determined the MIC of two ITC against a panel of C. jejuni isolates, showed that both compounds are bactericidal rather than bacteriostatic, and highlighted the role of GGT enzyme in the survival rate of C. jejuni exposed to ITC.
+</abstract>
+
+<body>
+Introduction
+
+Campylobacter jejuni is a food-borne pathogen responsible of severe gastrointestinal diseases worldwide. In the US, the incidence of C. jejuni infections is the second largest after Salmonella cases (Gillis et al., 2011), whereas in European Union, Campylobacter infections are the most commonly reported bacterial gastrointestinal diseases (European-Food-Safety-Authority, 2011). C. jejuni can colonize poultry, cattle, pigs, and sheep asymptomatically, and poultry is a particular common source of humans contamination (Friedman et al., 2004): humans are exposed to C. jejuni infection through handling and consuming contaminated meat, water, or raw milk. Infections result in severe diarrhea; moreover, serious sequels such as reactive arthritis and Guillain–Barré syndrome, a neurodegenerative complication, can result from C. jejuni infections (Nachamkin, 2002).
+
+The research on natural preservatives to reduce meat contamination is therefore a major interest, and volatile substances like isothiocyanates (ITC), that may not influence processed food, are promising candidates for pathogen reduction. ITC are degradation products from glucosinolates, secondary metabolites which constitute a group of more than 140 different compounds, found in all plants belonging to the Cruciferae family (Fahey et al., 2001). Glucosinolates are stored in the cell vacuole and come into contact with the enzyme myrosinase (a thioglucosidase) located in cell wall or cytoplasm during tissue damage (Fenwick et al., 1983; Poulton and Moller, 1993; Magrath et al., 1994). Glucosinolates are then hydrolyzed to a number of products, ITC being the quantitatively dominant compound. It is known that glucosinolates degradation products possess biological activities including beneficial effect on human health, fungicidal, herbicidal, and nematocidal properties (Fahey et al., 1997; Bonnesen et al., 1999; Lazzeri et al., 2004; Keum et al., 2005). Amongst them, ITC exhibit biocidal activities against various bacterial pathogens. There is now ample evidence for the antimicrobial properties of ITC (Aires et al., 2009a,b), but reports of suppression of bacteria by ITC are still limited to some bacteria, and nothing is known about their activity against C. jejuni.
+
+Allyl ITC (AITC) is already used as preservative in food industry (Delaquis and Mazza, 1995; Masuda et al., 2001). AITC is generated from its precursor, allyl glucosinolate, namely, sinigrin (1-thio-l-d-glucopyranose 1-N-(sulfoxy)-3-buteneimidate; Kawakishi and Namiki, 1969; Masuda et al., 1996) which is particularly abundant in horseradish (Armoracia lapathifolia) and wasabi (Wasabia japonica). AITC reportedly has antimicrobial activity against a wide range of microorganisms (Kyung and Fleming, 1997; Lin et al., 2000a,b; Masuda et al., 2001).
+
+Jang et al. (2010) recently reported a greater antimicrobial activity of aromatic isothiocyanates, such as Benzyl isothiocyanate (BITC), compared to aliphatic ones, using four Gram-positive bacteria (Bacillus cereus KCCM 11204, Bacillus subtilis KCCM 11316, Listeria monocytogenes KCCM 40307, and Staphylococcus aureus KCCM 12214) and seven Gram-negative bacteria (Aeromonas hydrophila KCTC 2358, Pseudomonas aeruginosa KCTC 1636, Salmonella choleraesuis KCCM 11806, Salmonella enterica KCTC12400, Serratia marcescens KCTC 2216, Shigella sonnei KCTC 2009, and Vibrio parahaemolyticus KCCM 11965). Recent data also had shown a bactericidal effect of BITC against Gram-negative periodontal pathogens Aggregatibacter actinomycetemcomitans and Porphyromonas gingivalis (Sofrata et al., 2011). The vegetable source of BITC is the glucotropaeolin glucosinolate, found in Cabbage (Tian et al., 2005), Wasabi (Sultana et al., 2003), Papaya (Kermanshai et al., 2001), and Mustard (Dorsch et al., 1984).
+
+MPITC was first isolated from the seeds of Iberis sempervirens (Kjaer et al., 1955) and more recently from the Egyptian plant Capparis cartilaginea (Hamed et al., 2007). MPITC and AITC are both constituents in horseradish and are on the GRAS list permitted for such flavors (Waddell et al., 2005). In nature, AITC constitute 37% of horseradish volatiles while MPITC is a minor constituent (about 1%). The antibacterial effect of this ITC is not yet determined.
+
+Sulforaphane is generated from glucoraphanin, an abundant glucosinolate in some varieties of broccoli. It was found to be active against Helicobacter pylori, a microaerophilic epsilon proteobacteria such as C. jejuni, which dramatically enhances the risk of gastric cancer in infected patients (Fahey et al., 2002).
+
+The antimicrobial activity of ITC is suggested to involve a reaction with thiol groups of glutathione or redox-active proteins, with subsequent inhibition of sulfhydryl enzyme activities and inhibition of redox-based defenses (Tang and Tang, 1976; Kolm et al., 1995; Jacob and Anwar, 2008). The addition of exogenous thiol groups can suppress the antimicrobial effect of ITC (Tajima et al., 1998). The activity of ITC varies with the structure of the molecule, but variations are also noticed amongst identical bacterial species for one ITC. Therefore, we can postulate that the efficacy of the ITC may depend on both the rate of spontaneous degradation of ITC-thiol conjugates and of the detoxification mechanisms of the bacterial isolate. The specific processes for ITC resistance of bacteria are still unknown. In rats and possibly other mammals, benzylITC (BITC) is degraded via conjugation with glutathione by the glutathione-S-transferase (GST), and transformed to cysteinyl glycine and cysteine conjugate by the Gamma Glutamyl Transpeptidase (GGT). The latter is N-acetylated to form mercapturic acid excreted in the urine (Brusewitz et al., 1977). In bacteria, the only report on ITC detoxification concerned cyanobacteria, and pointed out the role of GST and glutathione (Wiktelius and Stenberg, 2007).
+
+Some strains of C. jejuni, including the highly virulent strain 81-176, possess the GGT, while all C. jejuni strains are unable to synthesize glutathione (Hofreuter et al., 2006). GGT was found to be important for the chick colonization rate and is suspected to contribute to virulence of some C. jejuni isolates (Barnes et al., 2007; Hofreuter et al., 2008; Feodoroff et al., 2010). However, its role in the detoxification of electrophilic compound, such as ITC, has not been investigated.
+
+This study aims to analyze the antibacterial activity of two ITC against 24 C. jejuni isolates from various origins: chicken feces, human infections (blood or feces) and contaminated processed meats. Additionally, we investigated whether or not the presence of GGT in these isolates affects their sensitivity to ITC.
+
+Materials and Methods
+
+Bacterial isolates and growth conditions
+
+The C. jejuni isolates used in this study are listed in Table 1. Strains NCTC11168 and 81-176 are widely used reference strains which genome sequences have been published (Parkhill et al., 2000; Hofreuter et al., 2006). Other isolates were selected for having different origins and various antibiotic resistance profiles and were isolated from independent pork or poultry slaughterhouses and processings, or independent human cases. All isolates were streaked on Müeller Hinton agar (MHA) and grown microaerobically at 37°C for 24?h, then the cells were harvested in 2?mL Müeller Hinton broth (MHB) and diluted in the same medium to the appropriate concentration (OD600?nm?=?0.05). All cultures were grown under microaerobic atmosphere (CampyGen, Oxoid) at 37°C with 150?rpm shaking.
+
+Campylobacter jejuni isolates used in this study and some of their features.
+
+ND, not determined. These isolates were kindly provided by:
+
+1Alain Stintzi, Ottawa Institute of System Biology, Ottawa, Canada.
+
+2Odile Tresse, SECALIM, Oniris, Nantes, France.
+
+3Francis Mégraud, Centre National de Référence des Campylobacters et Helicobacters, Bordeaux, France.
+
+4Katell Rivoal, Hygiene, and Quality of Poultry and Pork Products, ANSES, Ploufragan, France.
+
+Pulse field gel electrophoresis
+
+Pulse field gel electrophoresis (PFGE) was performed according to Ribot et al. (2001) and CAMPYNET protocol (http://Campynet.vetinst.dk/PFGE.html). Briefly, isolates were subcultured on Karmali at 42°C for 2–3?days under microaerobic atmosphere. Bacterial colonies were harvested and re-suspended in 1?mL of Tris buffer (100?mol?L?1 Tris, pH 8, and 100?mmol?L?1 EDTA). About 200??L of suspension was subsequently mixed with an equal volume of 2% agarose (BioRad, Marnes-la-Coquette France) at 56°C. The mixture was molded into plugs and allowed to set at 4°C until totally gelified. The agarose plugs were placed in ETSP buffer (50?mmol?L-1 EDTA, 50?mmol?L?1 Tris pH 8, 1% Sarcosyl, and 1?mg?mL?1 Proteinase K) and incubated at 54°C overnight. Then, plugs were washed in TE buffer (10?mmol?L-1 Tris pH 8, 1?mmol?L-1 EDTA) four times for 0.5?h. Half of each plug was digested overnight with SmaI (New England BioLabs, Saint Quentin en Yvelines, France) at 24°C, and the resulting macrorestriction digests were electrophoresed using CHEF-DRIII system (BioRad) in 1.3% agarose gel in 10 times diluted 5? TBE buffer (0.45?mol?L?1 Tris–Borate, 0.01?mol?L?1 EDTA, pH 8.3) at 6?V?cm?1. Pulsing was ramped from 6 to 30?s over 21?h then 2–5?s over 3?h at 14°C. Gels were stained with ethidium bromide for 2?h, destained in water for 20?min and photographed under UV light with ChemiDoc ™ XRS (BioRad). A lambda ladder PFG marker (New England BioLabs) was used for fragment size determination. Bands were analyzed using BioNumerics v 3.5 (Applied Maths Kortrijk, Belgique). Pulsotype grouping was performed with the band position tolerance of the Dice coefficient at 2.0%. When identical profiles were observed between strains with SmaI, KpnI macrodigestion was performed in the same conditions as described above with the following modifications: electrophoresis was performed in 1.2% agarose gel and a pulsing ramping from 3 to 30?s over 22?h at 14°C.
+
+Growth analyses
+
+A quantity of 500??L of each isolates was inoculated at OD600?nm?=?0.05 in triplicate on 48-wells plates, and incubated microaerobically at 37°C under shaking. The OD600?nm was measured every 3?h to monitor the growth with an automatic plate reader (BioTek). The growth of each isolate was monitored at least in triplicate.
+
+Isothiocyanates solutions
+
+Isothiocyanate commercial pure solutions [Allyl-isothiocyanate (AITC), benzyl isothiocyanate (BITC), ethyl isothiocyanate (ETIC), and 3-(methylthio)propyl isothiocyanate (MTPITC)] were purchased from Sigma-Aldrich. Pure solutions were diluted in absolute ethanol to 100?mg?mL?1 (AITC and EITC) or 10?mg?mL?1 (BITC and MPITC) stock solutions.
+
+Minimum inhibitory concentration determination
+
+Minimum inhibitory concentrations (MICs) were determined by two different versions of the agar dilution method.
+
+Briefly, twofold serial dilutions of isothiocyanate stock solutions were added to 50°C molten MHA to get the final desired concentrations (from 6.25 to 200??g?mL?1 AITC and EITC or from 0.625 to 20??g?mL?1 for BITC and MPITC) and then the media were poured on 45 or 100?mm Petri dishes.
+
+Cells were inoculated at OD600?nm?=?0.05 in triplicate in 48-well plates, and incubated microaerobically for 6?h with shaking.
+
+Each 6?h-culture was diluted to OD600?nm?=?0.01 and 40??L, corresponding to approximately 5???105?CFU?mL?1, were spread on 45?mm plates. MIC was defined as the lowest isothiocyanate concentration in solid MHA where no growth was observed after 48?h of 37°C microaerobic incubation.
+
+Alternatively, 10-fold serial dilutions of 6?h-cultures were made in MHB and 5??L of each dilution were spotted on 100?mm plates. Hundred microliters of some dilutions were also spread on Columbia agar plates to determine colony-forming units per milliliter concentration of each culture. MIC was defined as the lowest isothiocyanate concentration that inhibited any visible growth of a 105- to 5???105-CFU spot after 48?h of 37°C microaerobic incubation.
+
+In both cases, ethanol was added to MHA as a negative control and inoculated plates without any addition were used as positive growth controls. Each plate was done in triplicates and each experiment was repeated twice.
+
+Minimal inhibitory concentrations and MBCs were also assayed in liquid medium. Strains were inoculated in 5?mL MHB at OD600?nm?=?0.05, then 10??L of either isothiocyanate dilution (in absolute ethanol) or absolute ethanol or sterile water (controls) were added. Final ITC concentrations were 10, 5, 2.5, and 1.25??g?mL?1 for AITC, and 1.25, 0.625, 0.312, and 0.156??g?mL?1 for BITC. OD600?nm were measured before and after 18?h of microaerobic incubation at 37°C with shaking. Minimal Inhibitory Concentration was defined as the lowest concentration of ITC that inhibits any visible growth after 18?h of incubation. Cells were also spread before and after incubation on MHA for colony counting. MBC was defined as the lowest concentration of ITC that kills 99.9% of the bacteria (i.e., 3 log reduction) after 18?h of incubation.
+
+Survival assays
+
+Campylobacter jejuni strains were grown in MHB in 50-mL sterile culture flasks. After ITC addition, (final concentrations AITC: 50, 100, or 200??g?mL?1; BITC: 0, 2.5, 5, or 10??g?mL?1), samples were collected at 0, 6, 12, and 24?h of growth, and the viable cells were numbered by plating serial dilutions onto MH agar plates and colony counting after incubation for 24?h at 37°C in microaerobic conditions. The experiment was performed twice with triplicate assays.
+
+Construction of C. jejuni 81-176 ggt mutant
+
+To investigate the roles of GGT, the chromosomal region in C. jejuni containing the ggt gene was deleted and replaced with the 3?-amino-glycoside phosphotransferase type III gene (aphA-3, Km cassette) through a homologous recombination event. The plasmid containing the ?ggt::aphA-3cat gene was constructed as follows. The plasmid pE1509 containing the upstream sequence of the ggt gene was obtained by cloning the PCR product amplified with primers ggtD21Lxba (5?-GAAGATAGTATAAAATGCACTCTAGAAAAG-3?) and ggtD22Rnde (5?-ACTTAGCGTGATTGAAATCGCATATGTAG-3?) in the pGEMTeasy (Promega). After digestion by NdeI, the insert was introduced into the plasmid pE1520 containing the downstream sequence of the ggt gene which was obtained by cloning the PCR product obtained with primers ggtD21Rxba (5?-GCGATGATAATAGGACTTGCTCTAGACACTAT-3?) and ggtD22Lsac (5?-ATCCAAAAACTGGAAAAATCCGCGGCTCT-3?) in the pGEMTeasy (Promega) to give the plasmid pE2057. The Km cassette obtained by PCR amplification using primers LKmSma (5?-TGCCCGGGACAGTGAATTGGAG-3?) and RKmSma (5?-CCCCCGGGCATTGCAATCCTAA-3?) and restricted by SmaI was inserted at the PfiMI site of the plasmid pE2057 between the upstream and downstream regions of the ggt gene. The resulting suicide vector pE2088 was electroporated into the C. jejuni 81-176 strain. Km resistant clones were selected on Colombia agar (Oxoid) containing kanamycin (50??g?mL?1). The double crossing over was checked using PCR amplification with either primers ggtV1for (5?-GCTTCCCACCGCAGGATCGC-3?) and KmV1rev (5?-ACCTGGGAGACAGCAACATC-3?); or primers KmV1 for (5?-TTCCTTCCGTATCTTTTACGC-3?) and ggtV1rev (5?-GCTTTTGCTTGTGCTTTTGCGGGA-3?). The construction in C. jejuni 81-176 was finally checked by DNA sequencing.
+
+PCR screening of ggt gene in C. jejuni isolates
+
+Genomic DNA was extracted using the Wizard Genomic DNA Purification Kit (Promega) for use as a PCR matrix. Presence of a GGT encoding gene on the C. jejuni isolates genomes was checked by PCR using two primer pairs specific for both 5? and 3? conserved regions of the ggt gene in C. jejuni and related strains. The ggt genes of C. jejuni 81-176, C. jejuni subsp. doylei 269.97, C. jejuni subsp. jejuni 260.94, C. jejuni subsp. jejuni HB93-13 and H. pylori 26695 were aligned using the MultAlin software (Corpet, 1988; Figure A1 in Appendix). PCR amplification with ggt1 (5?-CACGCTAAGTTTTGGTGCAG-3?) and ggt4 (5?-GTCCTTCCTTTGCAATA-3?) primers produces a PCR product of 622-bp starting at base 33 from ATG of C. jejuni
+ggt genes, while utilization of ggt3 (5?-TACATGGGCGATCCTGATTT-3?) and ggt6 (5?-GCATTAGCTTCTCCGCCTA-3?) amplifies a 330-bp-long DNA fragment of ggt starting at base 960 from ATG of C. jejuni
+ggt genes. Genomic DNA from C. jejuni NCTC1168 and 81-176 were used as negative and positive controls respectively.
+
+PCR amplifications with C. jejuni 16S RNA gene specific primers, 16SCJA (3?-AGAGTTTGATCCTGGCTCAG-5?) and 16SCJB (5?-TGTCTCAGTTCCAGTGTGACT-3?) were performed on each DNA sample as supplementary control.
+
+Statistical analyses
+
+Data from all three technical replicates of the two independent survival assays were analyzed by Student t-test. Possible correlations between origin, antibiotic resistance, presence, or absence of the ggt gene, and sensitivity to isothiocyanates of all 24 isolates were assessed by Fisher’s exact test. For all tests, p-values?<?0.05 were considered significant.
+
+Results
+
+Growth rate of C. jejuni isolates and selection
+
+Twenty four isolates (including the two reference strains C. jejuni NCTC1168 and 81-176, plus the ggt mutant of 81-176) were selected for their similar growth rate in 48-well plates on MHB medium at 37°C in microaerobic conditions. As shown in Table 2, most C. jejuni isolates display a mean growth rate constant between 0.29 and 0.15?h?1 in such conditions. Two isolates (3-14 and 3-6) with a reduced growth rate as well as an isolate (3-16) with a higher growth rate were selected to evaluate the impact of the generation time on the sensitivity to ITC. However, all cultures reached a similar biomass, i.e., a final log2(100???OD600?nm) from 4.3 to 6.2, after 24?h growth, indicating that the cell viability was not affected in slower growth isolates (Table 2). Moreover, the correlation between OD600?nm (0.05 and 0.15) and the number of colony-forming units per milliliter was the same for every isolate (data not shown).
+
+Growth of C. jejuni isolates.
+
+C. jejuni isolates were grown on 48-well plates in MH medium, in microaerobic conditions (CampyGen, Oxoid) at 37°C. Growth rates were calculated as the slope of the growth curves during logarithmic phase and expressed as h?1. Final OD were measured at 600?nm after 24?h growth. SD (minimum of three replicates).
+
+Pulse field gel electrophoresis of C. jejuni isolates
+
+To assess the genomic diversity of the 24 isolates used in this study, PFGE was performed using SmaI and KpnI. Each of the 24 isolates has a different SmaI or KpnI pulsotype (Figure 1). Two pairs of isolates (3-8 and 3-17, 3-13 and 2-77) displayed very similar SmaI pulsotypes (S9 and S9?, S18 and S18?) but had different pulsotypes after KpnI digestion (Figure A2 in Appendix).
+
+AITC and BITC minimal inhibitory concentrations (determined by agar dilution method) on 24 C. jejuni isolates. From left to right: dendrogram generated using Dice’s coefficient and showing isolates grouping based on SmaI PFGE; SmaI PFGE profiles; SmaI and KpnI pulsotypes of the 24 isolates; ggt: +: positive PCR amplification of ggt gene with both primer pairs; MIC of AITC and BITC, expressed as the lowest concentration (?g mL?1) inhibiting all visible growth of a 5???105-CFU?mL?1 inoculate. ND: not determined.
+
+Minimal inhibitory concentrations of isothiocyanates against C. jejuni isolates
+
+AITC, BITC, and MPITC were preliminary chosen for their chemical properties (Figure 2), their occurrence in natural plant compounds and for their reported antibacterial activity.
+
+Chemical structure and properties of the four ITC tested in this study. The flash point is the lowest temperature for which the chemical is evaporating to give a combustible concentration of gas and is indicative of the evaporation rate at a given temperature.
+
+EITC was selected as a negative control since it has a high volatile property (Figure 2) and there is no report of an antibacterial effect such as when tested against intestinal bacteria including E. coli, Clostridia, Lactobacilli, and bifidobacteria (Kim and Lee, 2009).
+
+Although sulforaphane was previously reported to display an inhibitory effect against the C. jejuni closely related genus Helicobacter (Fahey et al., 2002), and despite preliminary experiments carried-out in our laboratory that demonstrated a MIC of 15??g?mL?1 against C. jejuni NCTC1168 (Ermel, G., unpublished), the high cost of chemically purified sulforaphane dissuaded us from using it in a large scale study.
+
+A first assay was performed with the spread-based method to determine the MIC of the four ITC against the reference strain C. jejuni NCTC1168. As expected, the MIC of EITC was higher than 200??g?mL?1 (upper limit of the assay) while the MIC of AITC was of 200??g?mL?1. MPITC and BITC displayed an identical MIC of 5??g?mL?1. Therefore, BITC was selected instead of MPTIC for further study according to its widespread natural occurrence.
+
+When the MIC assay was extended to the 24 C. jejuni isolates by the spot-based method, two groups of sensitivity appeared (Figure 1). The nine more resistant isolates are NCTC1168, 2-77, 2-78, 2-80, 3-2, 3-4, 3-6, 3-16, and 3-17, on which the MIC of AITC was of 200??g?mL?1 and the MIC of BITC was of 5??g?mL?1. For the majority of tested C. jejuni isolates (n?=?11) the MIC were of 100??g?mL?1 for AITC and 2.5??g?mL?1 for BITC. The growth of the most sensitive isolate (3-13) was inhibited at minimal concentrations of 50??g?mL?1 of AITC and 1.25??g?mL?1 of BITC. Additionally, four isolates (3-5, 3-9, 3-12, and 3-15) displayed miscellaneous sensitivity to AITC (from 50 to 200??g?mL?1) and BITC (from 2.5 to 5??g?mL?1). Isothiocyanate sensitivity profiles did not correlate with similarities between isolates as determined by PFGE. Even closely related isolates (3-8 and 3-17, 3-13 and 2-77) have different sensitivities to AITC and BITC (Figure 1).
+
+It is interesting to note that the ggt mutation in C. jejuni 81-176 did not impact on the MIC of AITC and BITC (Figure 1).
+
+Comparison between ITC resistance and ggt detection on genomes
+
+Using two distinct pairs of primers specific for conserved regions of ggt in four C. jejuni genomes, DNA fragments were amplified by PCR with both primer pairs in C. jejuni isolates 81-176 (positive control), 2.77, and 3.16.
+
+This low prevalence of the ggt gene in our C. jejuni isolate panel is in accordance with a previous study that described the presence of GGT in only 15 out of 166 C. jejuni human isolates (Feodoroff et al., 2010) whereas Gonzalez et al. (2009) identified 36.6% of their chicken isolates (out of 205) as ggt-positive.
+
+There is no correlation neither between the MIC of AITC and BITC and the presence of GGT nor between the MIC and the origin or pulsotype of the C. jejuni isolates (Figure 1; Fisher’s exact test, p-value?>?0.05).
+
+Determination of the minimal bactericidal concentration
+
+For both ITC, MIC, and MBC values were identical (Table 3.). Therefore, we can affirm that AITC and BITC have a bactericidal effect on C. jejuni. Moreover the MIC values are higher against C. jejuni NCTC1168 than against 81-176, and not affected by the ggt mutation, as found with the agar dilution method (Figure 1).
+
+Minimal inhibitory (MIC) or bactericidal (MBC) concentrations in broth cultures.
+
+Values are given in ?g?ml?1.
+
+AITC and BITC MIC and MBC values are the same on wild-type 81-176 and ggt mutant. However, MBC are discrete values, so the wild-type and mutant strain can have a different killing rate while displaying the same MBC value. While counting colonies for this MBC assay, we noticed that there were 100–1000 times less ggt mutant cells than 81-176 wild-type cells after treatment with 5??g?mL?1 AITC or 0.625??g?mL?1 BITC (corresponding to MBC values). As a consequence, we decided to carry on a more dynamic sensitivity experiment on these two strains.
+
+Survival assays of C. jeuni 81-176 and ggt mutant
+
+The standard assay for testing the antibiotic susceptibility of bacteria is MIC, but this method is of limited value in determining the susceptibility kinetic of bacteria and the ratio of cells surviving to MIC. An alternative approach to measurement of the bactericidal activity of antimicrobial agents is the time-kill method, which examines the impact of antimicrobial exposure on the bacterial population at multiple time-points rather than the single time point used in the MIC method, and evaluates the rate of survival rather than the inhibition of growth.
+
+To determine whether AITC and BITC were as effective in killing the C. jejuni 81-176 and ggt mutant, cell viability was measured by bacterial plating at concentrations closer to the MIC and at completely lethal concentrations (Figure 3).
+
+Survival rate of C. jejuni 81-176 WT and ggt mutant exposed to AITC or BITC. C. jejuni strains were grown in MH Broth at 37°C in microaerobic conditions and viable cells were numbered after 6, 12, or 24?h-exposure to ITC. Black squares: C. jejuni 81-176 WT; white squares: C. jejuni 81-176 ggt mutant. (A) AITC at 0, 50, 100, or 200??g?mL?1; (B) BITC at 0, 2.5, 5, or 10??g?mL?1. The experiment was performed twice with triplicate assays, each point represents mean of 6 data points with SDs. *p?<?0.05, t-test.
+
+For the strain C. jejuni 81-176 on which AITC displayed a MIC of 100??g?mL?1 in solid medium, an exposure of 24?h to 100??g?mL?1 AITC is sufficient to kill the whole population. Interestingly, the isogenic ggt mutant of 81-176 had a lower survival rate than the wild-type strain when exposed to AITC (Figure 3A, p?=?0.0001); however both populations are erased by 24?h-exposure to 50??g?mL?1 AITC. A similar pattern was found when C. jejuni 81-176 strain and ggt mutant were exposed to BITC in liquid MH although the difference in survival rates between the two strains and mutant were less marked than with AITC but still significant (Figure 3B, p?=?0.001).
+
+Discussion
+
+The development of antibiotic resistance by C. jejuni strains, mainly to fluoroquinolone and macrolides, is a major concern for human health and poultry industry (Luangtongkum et al., 2009; Smith and Fratamico, 2010). Although antibiotics have been banned by the poultry industry, there is a persistence of antibiotic resistant strains of C. jejuni in animal reservoirs. Zhang et al. (2003a) demonstrated that these resistant strains survived more successfully in their hosts than the non-resistant strains even without selection pressure.
+
+Cross-contamination from various sources during slaughter occurred, but the majority of Campylobacter contamination on carcasses appeared to originate from the slaughtered flock itself (Wirz et al., 2010). Therefore, by reducing the colonization of chick intestine by C. jejuni, the human infection through contaminated food consumption may be reduced.
+
+It has been suggested that C. jejuni was more sensitive to natural antimicrobials such as olive leaf extract compared to other pathogenic microorganisms (Sudjana et al., 2009). Other examples of efficient natural antimicrobials against C. jejuni include linalool vapor of bergamot and linalool oils (Fisher and Phillips, 2006) and essential oil from Origanum minutiflorum (Aslim and Yucel, 2008).
+
+It is only recently that plant-derived food ingredients have been explored for their antimicrobial properties. So far, essential oils were the most frequently used form of plant extract tested for antimicrobial activity in foods. Isothiocyanates are other plant extracts with flavoring properties that are arising as promising antimicrobial agents, with activities often rivaling synthetic chemicals. Researches are focusing on the use of active packaging with ITC (Shin et al., 2010), or their combination with existing antibiotic treatments (Palaniappan and Holley, 2010). However there is only one report about efficiency of ITC (sulforaphane) against C. jejuni?(Woelffel, 2003).
+
+Our work assessed C. jejuni sensitivity to isothiocyanates using several methods: minimal inhibitory concentration (MIC) determination in solid and liquid media, MBC determination, and survival assays.
+
+Not surprisingly, the behavior of C. jejuni strains in liquid culture plus ITC appears different than onto solid medium. MIC values of AITC and BITC are lower when measured in MH broth than in agar dilution method (Figure 1; Table 3). MIC values are not a biological constant. The MIC is influenced by many factors such as the interaction between the antimicrobial agent, the bacterial cell and the medium, and the physiological status of the cells. It is known that for most antimicrobial, the concentration required to kill sessile bacteria may be greater than those required to kill planktonic bacteria. MIC values can only be compared if they are measured under well standardized conditions, which are not yet been defined for such volatile compounds as ITC. We have adapted the agar dilution methods for plant extracts previously described by Klancnik et al. (2010). These authors already pointed out a discrepancy between the antibacterial activity levels obtained by the agar dilution method and the broth dilution method for Gram-negative bacteria: a lower concentration of antimicrobial was required for growth inhibition in liquid culture. Moreover, the evaporation rate of ITC may be higher in liquid culture than when ITC are embedded into agar medium. Previous data have shown that AITC vapor was more effective as antimicrobial agent than liquid AITC (Shin et al., 2010); thus it may partially explained the differences we have observed between the two methods.
+
+To investigate the bacteriostatic or bactericidal effect of isothiocyanate on C. jejuni, we carried on a MIC determination experiment in liquid media on the two reference strains NCTC11168 and 81-176, and the ggt mutant. By counting the viable cells at different ITC concentrations, the MBC can be determined. A given compound can be called bactericidal when it kills bacteria rather than it inhibits the metabolism, i.e., when the MIC and the MBC value are identical. The MBC of AITC and BITC was measured as the minimum concentration needed to kill most (99.9%) of the C. jejuni cells (NCTC1168 and 81-176 strains) after incubation for 18?h under a given set of conditions: in MH broth at 37°C in microaerobic conditions. While sulforaphane was reported as a bacteriostatic antimicrobial compound (Woelffel, 2003), our work shows that AITC and BITC clearly display bactericidal activities. MIC and MBC of AITC were higher than those of BITC on each of the 24 C. jejuni tested isolates.
+
+In addition, the growing number of reports on antibacterial and anticancer activities of ITC has increased their interest as food supplements. Dietary ITC exert a cancer chemopreventive effect in animals. ITC are able to reduce carcinogen-induced tumorigenesis by inducing carcinogen detoxification (Hecht, 1995), to interfere with angiogenesis (Thejass and Kuttan, 2007a,b), and to induce cell cycle arrest and cell death in cancer cells, while decreasing cancer cell invasion and metastasis (Zhang et al., 2003b). The most intensively studied ITC as chemopreventive agents are AITC, BITC, PEITC, and sulforaphane. For a recent review see Zhang (2012). The effect of ITC as chemopreventive agents is predominantly mediated by the formation of inactive labile thiocarbamate adducts by reaction with the thiol groups of target proteins, while the reaction with amine groups to give thiourea derivatives is less common due to a lesser affinity and a significantly lower reaction rate. The reactivity of specific amines and thiols in target proteins also depends on their own pKa values (Podhradsky et al., 1979). ITC accumulate as GSH conjugates in the cells and binds to target protein via thiols exchange reactions (Zhang, 2000; Mi et al., 2010).
+
+Concerning thiols exchanges reactions, examples of well studied direct ITC targets are the cytochrome P450 monooxygenase (a detoxifying enzyme responsible for the activation of numerous carcinogens; Moreno et al., 1999), the Keap1 protein which inactivation results in the accumulation and activation of the major regulator of the antioxidant response Nrf2 (Zhang and Hannink, 2003), and the ?-tubulin thus leading to cell cycle arrest (Smith et al., 2004). ITCs disrupt the redox homeostasis of the cells, both via a long lasting adaptive response depending on the activation of Nrf2 (transcription of antioxidant and repairs enzymes; Jeong et al., 2005) but also by depleting the levels of available intracellular GSH (Zhang, 2000) and by inhibiting glutathione/thioredoxine reductases (Hu et al., 2007). However the biological effect of ITC is dose dependant: at high concentration, the modification of mitochondrial functions leads to proapoptotic cytochrome c release, reactive oxygen species (ROS) generation, respiratory alteration, and necrotic cell death. The resulting inflammation may lead to carcinogenic effects (Nakamura et al., 2002).
+
+As we reported in this paper about the MIC of various ITC against C. jejuni, variation in the R groups of ITC also accounts for different chemopreventive biological efficiencies of ITC in animals, since the side chain may modify the electrophilicity of – NCS groups, the accessibility to nucleophilic centers, and the lipophilicity of ITC and therefore their location in cell compartments (Zhang, 2012). Our study also showed that the resistance levels of several C. jejuni strains for a given ITC are varying, and this variation is probably related to the specific genetic potential of each strain for ITC-conjugate and/or ROS detoxification.
+
+In most living organisms, GGT catalyzes the first step in the degradation of GSH by cleavage and transfer of the ?-glutamyl moiety from GSH to an amino acid acceptor (or hydrolysis to release glutamate). This reaction leads to a release of cysteinyl glycine. GGT enzyme is involved in ITC detoxification in eukaryotes after their conjugation to GSH by GST (glutathione-S-transferase) enzymes (Brusewitz et al., 1977); ITC detoxification in cyanobacteria, also involve GST and glutathione (Wiktelius and Stenberg, 2007).
+
+Our result also suggest that the GGT enzyme may be involved in ITC detoxification in C. jejuni since a ggt mutant displayed a decreased survival rate to ITC compared to its isogenic wild-type. Despite the absence of glutathione biosynthesis and GST in C. jejuni, our results suggest that GGT may be able to detoxify conjugates with other low molecular weight thiols present in C. jejuni cells, such as cysteine or N-acetylcysteine. The exact mechanism of GGT-mediated ITC resistance remains to be unveiled.
+
+However, only few C. jejuni isolates encode a ggt gene. Additionally, the presence or absence of the ggt does not correlate with isothiocyanate sensitivity, indicating that ITC resistance probably depends on several factors, the presence of the ggt being only one of many genetic differences between C. jejuni isolates. For example, efflux systems could be involved, as it has been described for Pseudomonas syringae pathovars maculicola: the sax genes encoding resistance–nodulation–division efflux systems were found to be required to overwhelm aliphatic isothiocyanate-based defenses of Arabidopsis plants (Fan et al., 2011). Even if homologs of these genes have not been found in C. jejuni genomes, Campylobacters possess efflux systems (Lin et al., 2002; Mamelli et al., 2005). Moreover, the resistance levels of C. jejuni isolates to ITC do not correlate with their resistance to antibiotics (this study, Tables 1 and 3; Woelffel, 2003) suggesting that these resistance mechanisms are distinct.
+
+Although the antibacterial activity of ITC seems to be directed by their non-specific binding to sulfhydryl groups on the active sites of enzymes and of glutathione (Tang and Tang, 1976; Kolm et al., 1995), the exact mechanisms for ITC antibacterial activity are not completely known. It has been shown that AITC inhibited the catalysis by both thioredoxin reductase and acetate kinase in E. coli O157:H7 (Luciano and Holley, 2009). ITC also cause membrane damage and leakage of cellular metabolites (Lin et al., 2000b).
+
+From a transcriptomic analysis, it was recently reported that the isothiocyanate iberin from Brassicaceae, specifically blocks expression of quorum sensing regulated genes in Pseudomonas. aeruginosa and induced the MEF–OprN efflux pump (Jakobsen et al., 2012).
+
+We are currently investigating the role of several disulfide oxidoreductases of C. jejuni in the resistance to AITC and BITC. Moreover, by analyzing the data from a carried-out transcriptomic identification of the C. jejuni transcripts induced or repressed by subinhibitory concentrations of BITC, we expect to unravel the whole C. jejuni response to ITC.
+
+Conflict of Interest Statement
+
+The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.
+</body>
+
+
+The authors thank Prof. Isabelle Kempf (Anses Laboratoire de Ploufragan) and Prof. Francis Megraud (CNRCH – Université Bordeaux Segalen) for kindly providing C. jejuni isolates. This research was funded by a doctoral scholarship (ARED) from Region Bretagne to Dufour V and by the GENICAMP program.
+
+Appendix
+
+Alignment by MultAlin software (Corpet, 1988) of ggt genes from: 1: C. jejuni 81-176; 2: C. jejuni subsp. doylei 269.97; 3: C. jejuni subsp. jejuni 260.94, 4: C. jejuni subsp. jejuni HB93-13; 5: Helicobacter pylori 26695 Arrow: position of primers used for PCR amplification of ggt gene in C. jejuni isolates.
+
+Pulse field gel electrophoresis after KpnI digestion on four C. jejuni isolates. Two pairs of isolates (3-8 and 3-17, 3-13 and 2-77) displayed very similar SmaI PFGE profiles (S9 and S9?, S18 and S18? respectively), and were consequently submitted to PFGE after KpnI digestion for discrimination. The picture shows four distinct KpnI digestion profiles after PFGE (K1, K2, K3, and K4 respectively).
+
+References

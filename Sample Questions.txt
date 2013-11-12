@@ -1,0 +1,44 @@
+What cause abnormal neuronal migration?
+What does Impaired neuronal migration affect ?
+What does we identify?
+What does the S140G mutation decrease?
+What reduces GTP Binding?
+
+Q1: Easy, direct match
+Answer: Mutations in α-Tubulin
+
+Q2: affect vs affects
+Answer: behavior as well as brain structure
+
+Q3: Tricky question, because in the document this phase appears frequently, just use this question for evaluation, no golden answer
+
+Q4: too complicated...
+Answer: the ability of CCT bound quasi-native α-tubulin folding intermediates to incorporate GTP by approximately 5-fold.
+Answer: the ability of CCT
+
+Q5: Easy
+Answer: S140G Mutation
+
+
+What controls apoptosis?
+What does Antiapoptotic Bcl-2 proteins on mitochondria inhibit?
+What does Bcl-xL interact?
+What controls the permeabilization of mitochondria?
+What does antiapoptotic proteins bind?
+
+Q1. Easy for type 1, direct answer in the title
+Answer: Traveling Bax and Forth from Mitochondria
+
+Q2. Easy for type 2, direct answer in the abstract
+Answer: prodeath proteins
+
+Q3. Tricky question, because is ambiguously provided in the document
+Answer 1: Not provided
+Answer 2: on the mitochondrial surface
+Answer 2 is to some extent acceptable
+
+Q4. A little bit difficult, passage voice
+Answer: proteins belonging to the Bcl-2 family
+
+Q5. Difficult, a lot of noise.
+Answer: Bax and Bak

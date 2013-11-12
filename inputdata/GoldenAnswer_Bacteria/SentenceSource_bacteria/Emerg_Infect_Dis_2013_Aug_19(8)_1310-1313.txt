@@ -1,0 +1,57 @@
+<article-title>Duck Liver–associated Outbreak of Campylobacteriosis among Humans, United Kingdom, 2011</article-title>
+
+<abstract>
+Campylobacter? spp.–related gastroenteritis in diners at a catering college restaurant was associated with consumption of duck liver pâté. Population genetic analysis indicated that isolates from duck samples were typical of isolates from farmed poultry. Campylobacter spp. contamination of duck liver may present a hazard similar to the increasingly recognized contamination of chicken liver.
+</abstract>
+
+
+Keywords: 
+<body>
+Although bacteria in the genus Campylobacter commonly cause gastroenteritis, identified outbreaks are relatively rare. In England and Wales, 21 identified campylobacteriosis outbreaks during 1992–1994 (1) and 50 during 1995–1999 (2) accounted for 0.2% and 0.4% of reported outbreaks of gastroenteritis, respectively. Water and milk were the main sources of Campylobacter spp. outbreaks in the United Kingdom and the United States, although becoming less so (2,3). Poultry consumption and restaurant dining are the most common foodborne illness risks, although many foodstuffs are implicated (2,3). Outbreaks associated with chicken liver pâté or parfait have increased: 14 outbreaks were associated with these items in England and Wales during 2007–2009 compared with 11 during the 15 preceding years (4). There were also large outbreaks in Scotland (5,6). The peer-reviewed literature identifies chicken as the type of poultry liver or refers to poultry without specifying type.
+
+Multilocus sequence typing is increasingly used to identify animal origins of human campylobacteriosis (7). The presence of multiple Campylobacter strains (6) in individual outbreaks linked to chicken liver is consistent with documentation that chickens harbor multiple strains (8), that pâté is prepared from multiple livers (5,6), or both. We describe epidemiologic evidence for a duck liver pâté–associated outbreak and compare sequence types (STs) of isolates with animal and food isolate datasets.
+
+The Study 
+
+The outbreak involved a group of 3 persons and a group of 29 persons who ate lunch at a catering college restaurant. A probable case-patient was defined as a restaurant diner with diarrhea onset within 7 days after eating at the restaurant on May 12, 2011. Infections were confirmed by laboratory test results.
+
+Environmental health officers inspected the restaurant kitchen and reviewed food preparation processes on May 17. The lunches had been ordered in advance, and officers recorded the food choices made by each diner. Menu choices and occurrence of illness were verified by face-to-face interviews (22 diners), postal interviews (9 diners), and other diners for 1 diner who had died. When food consumption history differed from the diner’s lunch order, which occurred mainly through sharing of food, consumption history was used. Fisher exact test p-values and odds ratios with CIs were calculated for the association of each menu option with illness. All case-patients reported exposure to pâté. Lower CIs were estimated by using the Cornfield method in Stata 11 (StataCorp LP, College Station, TX, USA). Repeat analysis was restricted to patients with laboratory-confirmed illness and those who were not ill.
+
+Symptomatic patients were requested to provide fecal samples. In addition, a sample of duck liver, not from the batch used to prepare the meals in question, was obtained from the supplier on June 13 and tested for Campylobacter spp. by using 25 g of sample cultured on Campylobacter Blood-Free Selective Agar Base after enrichment in Bolton broth (Oxoid, Basingstoke, UK). Multilocus sequence typing was performed by using standard methods. STs for samples from case-patients and the liver sample were compared with those of published isolates from chickens (mainly sampled in the United Kingdom during 2001–2005) (9,10), farmed ducks (sampled in the United Kingdom, 2007) (11), wild ducks (sampled in the United Kingdom, 2007) (11), and wild geese (sampled in the United Kingdom, 2002–2004) (12) by using a neighbor-joining algorithm and default parameters in MEGA
+(www.megasoftware.net/) as described (13).
+
+Of the 32 diners, 18 (56%) reported diarrhea: 8 had laboratory-confirmed campylobacteriosis, 6 had samples that were negative for Campylobacter infection, and 4 were not tested (Figure 1). Median duration of illness was 4 days; 1 case-patient died. Five case-patients described severe diarrhea (profuse, explosive, uncontrollable, or watery), 5 reported fever or shivering, and 2 reported abdominal pain. Consumption of duck liver pâté was strongly associated with illness. No other positive associations were identified (Table). When analysis was restricted to confirmed cases, campylobacteriosis was strongly associated with pâté (lower CI of odds ratio 5.5; p = 0.001).
+
+Onset dates of diarrheal illness related to a duck liver–associated outbreak of campylobacteriosis among humans, United Kingdom, 2011. Symptoms recorded with or without laboratory confirmation of Campylobacter infection, among persons eating lunch at a catering college restaurant on May 12, 2011. Vertical arrow indicates exposure date.
+
+Association between food consumed and campylobacteriosis among diners at a catering college restaurant, United Kingdom, 2011
+
+*95% Cornfield CIs are in parentheses. Where odds ratio is undefined, lower CI is presented.?†By Fisher exact test.
+
+Through review of cooking processes, we found that ≈1 kg of duck livers was seared and flambéed in batches without ensuring that adequate internal cooking temperatures were achieved. The seared livers were blended with other ingredients and chilled. No other high-risk ingredients or processes were identified. No illness among staff members was recorded on or immediately preceding May 12. A catering student who made and tasted the pâté became ill on May 16. No food samples remained.
+
+Campylobacter isolates were available from 6 of 8 confirmed case-patients and the duck liver. One isolate was positive for C. coli and 5 for C. jejuni. The C. jejuni STs were ST356 (3 cases), ST50, and ST607. These STs are genetically diverse (Figure 2), but each clustered with chicken and farmed duck rather than wild waterfowl isolates. The duck liver isolate, ST5097, clustered with wild waterfowl isolates (Figure 2).
+
+Comparison of Campylobacter jejuni sequence types (STs) from a duck liver–associated outbreak of campylobacteriosis among humans in the United Kingdom during 2011 (solid squares) with published sequence types of isolates from chicken (hollow circles) (9,10), domesticated duck (hollow triangles) (11), wild duck (solid triangles) (11), and wild geese (hollow squares) (12). ST5097 was isolated from a duck liver sample, ST356 from 3 case-patients, and ST50 and ST607 each from 1 case-patient. Scale bars indicates nucleotide substitutions per site.
+
+Conclusions 
+
+The attack rate of 86% among persons who ate duck liver pâté was similar to rates for outbreaks associated with chicken liver pâté (5,6). Pâté consumption was strongly associated with illness and laboratory-confirmed infection. Diners who did not eat this dish were unaffected. Pan frying of chicken livers is effective for killing internal Campylobacter spp. if the internal temperature reaches 70°C and is sustained for at least 2 minutes and if total cooking time is at least 5 minutes (14). The cooking process for the pâté, as reviewed by environmental health officers, was insufficient to kill bacteria inside the livers. This finding corroborates the epidemiologic evidence.
+
+Aseptic testing of 30 chicken livers showed internal infection in 90% (14); testing of 50 chicken and 50 duck livers identified Campylobacter spp. contamination in 20 and 18, respectively (15). The high level of internal and external contamination in chicken liver in these studies and failure of insufficient cooking to destroy the bacteria in the current outbreak suggest that internal contamination of duck liver also occurs. Undercooked duck liver may therefore present a hazard similar to that presented by undercooked chicken liver. Cooking time should be sufficient to destroy bacteria throughout the liver. Deliberate undercooking was identified in 68% of 25 poultry liver–associated campylobacteriosis outbreaks that occurred during 1992–2009 (4). Outbreaks associated with chicken and duck liver pâté and parfait are being increasingly identified in the United Kingdom and are likely to occur in other countries because the cooking procedures described in the United Kingdom outbreaks are not based on recipes restricted to the United Kingdom. Sporadic cases associated with similar home cooking of poultry liver products are also likely to occur, but such cases will be difficult to identify unless specifically sought.
+
+The diversity of isolates in this outbreak resembles that in an outbreak of campylobacteriosis related to chicken liver pâté (6). As with that outbreak, the diversity in the outbreak in this study could reflect individual livers co-infected with >1 Campylobacter strain, >1 infected liver in the food item, or both. This diversity suggests that bacterial invasion of chicken and duck livers is possible for a wide range of fairly distantly related Campylobacter spp. strains, including those of C. jejuni and C. coli. The clustering of C. jejuni isolates from this outbreak with STs associated with farmed duck and farmed chicken and the genetic separation from wild duck and wild goose isolates (Figure 2) suggests that the farm environment may favor some Campylobacter spp. subtypes sufficiently to overcome natural host associations. An alternative hypothesis is that among a wide range of subtypes infecting ducks, those that are found in other farm animals are more effective at causing human disease. The single Campylobacter isolate from a later, non–outbreak-associated batch of duck liver clustered with isolates from wild waterfowl rather than the outbreak isolates or other isolates from farmed ducks. The limited data on Campylobacter populations in poultry other than chickens restrict our ability to interpret this discrepancy. Further work to characterize the Campylobacter populations of wild and farmed ducks may facilitate more reliable inference.
+</body>
+
+
+Suggested citation for this article: Abid M, Wimalarathna H, Mills J, Saldana L, Pang W, Richardson JF, et al. Duck liver–associated outbreak of campylobacteriosis among humans, United Kingdom, 2011. Emerg Infect Dis [Internet]. 2013 Aug [date cited]. http://dx.doi.org/10.3201/eid1908.121535
+
+Acknowledgments
+
+We acknowledge the work of the local and regional clinical and public health microbiology laboratories, environmental health officers in Reading Borough Council and West Berkshire Council, and staff in Thames Valley Health Protection Unit in investigating this outbreak.
+
+ M.C.J.M. is funded by the Wellcome Trust (grant no. 087622).
+
+Dr Abid is a consultant in communicable disease control working in Public Health England. His main research interests are in tuberculosis and outbreak investigation.
+
+References

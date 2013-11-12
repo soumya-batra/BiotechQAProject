@@ -1,0 +1,18 @@
+0 01 This toxin selectively kills human leukocytes by inducing apoptosis and lysis
+3 02 Treatment for most ocular bacterial infections is primarily empiric with broad-spectrum antibiotics, which are effective against the most common bacteria associated with these ocular infections
+3 03 However, the widespread use of broad-spectrum systemic antibiotics has resulted in a global increase in resistance among both Gram-positive and Gram-negative bacteria to a number of the older antibiotics as well as some of the newer fluoroquinolones used to treat ophthalmic infections
+5 04 104 Besifloxacin’s mechanism of action is similar to that of other fluoroquinolones in that it kills bacteria through inhibition of DNA gyrase and topoisomerase IV
+3 05 Our data suggest antibiotic release from the bone cement surface kills adhering bacteria adjacent to the surface with Copal being more effective in biofilm reduction than Palacos R-G
+5 06 The complement system efficiently kills bacteria
+5 07 Furthermore, the new compounds inhibit bacterial growth without toxicity to human cells, consistent with developing a new drug that kills bacteria without disturbing the human host
+1 08 This study considers gene location within bacteria as a function of genetic element mobility
+1 09 (ii) Epistatic interactions—between VF genes and phage genes that enhance VF utility to bacteria—could maintain phage genes via selection acting on individual, VF-expressing bacteria
+1 10 (iii) Phage could amplify VFs during disease progression by carrying them to otherwise commensal bacteria colocated within the same environment
+1 11 That is, VF-supplied nutrients could enhance phage growth by increasing the density or by improving the physiology of phage-susceptible bacteria
+1 12 Alternatively, VF-mediated break down of diffusion-inhibiting spatial structure found within the multicellular bodies of host organisms could augment phage dissemination to new bacteria or to environments
+1 13 Such phage-fitness enhancing mechanisms could apply particularly given VF expression within microbiologically heterogeneous environments, ie, ones where phage have some reasonable potential to acquire phage-susceptible bacteria
+5 14 A given compound can be called bactericidal when it kills bacteria rather than it inhibits the metabolism, i
+1 15 This was accomplished with microarrays and an RNA amplification procedure called selective capture of transcribed sequences to detect small amounts of mRNA from low numbers of intracellular bacteria
+1 16 The genes encoding the Icm/Dot system are not differentially expressed inside cells compared to control bacteria grown in rich broth, but the genes encoding several translocated effectors are strongly induced
+5 17 The results showed that: (A) the average H2O2 content in honey was over 900-fold lower than that observed in disinfectants that kills bacteria on contact
+3 18 g/ml gentamycin, an antibiotic that does not cross the cytoplasmic membrane of eukaryotic cells and then only kills bacteria not internalized in cells

@@ -1,0 +1,142 @@
+<article-title>Human Vaccines & Immunotherapeutics</article-title>
+
+<abstract>
+
+Two therapeutic HPV vaccine candidates successful in phase 1
+
+
+Flu shot may prevent heart attacks and stroke
+
+
+CDX-1401 combined with TLR agonist: Positive phase 1 results
+
+
+Three MRSA vaccines in early clincial trials
+
+
+Ovarian cancer vaccine candidate DPX-Survivac: Positive interim results from phase 1
+
+
+Chinese biotech partnership brings first hepatitis E vaccine to the market
+
+
+Therapeutic vaccine for treatment of genital herpes enters phase 2
+
+
+Visionary concept: Printable vaccines
+</abstract>
+
+<body>
+Two therapeutic HPV vaccine candidates successful in phase 1
+
+Two new vaccines developed by Inovio Pharmaceuticals and Genticel could help women infected with the human papillomavirus (HPV) who are at risk of cervical cancer. Current HPV vaccines, such as Gardasil and Cervarix, prevent infection with cancer-causing strains of HPV, but do not help women already infected with the virus. While most HPV infections clear on their own, some linger and cause precancerous lesions. Doctors can remove these lesions, but they often come back. A vaccine for treating chronic HPV infections would be very useful, because women with precancerous cells have to be continuously monitored to make sure their disease does not return or worsen.
+
+Inovio’s vaccine candidate VGX-3100 works in a way similar to gene therapy. It contains DNA sequences that—once inside the cell—instruct them to make specific proteins. These proteins train the immune system to recognize and fight cells infected with HPV16 and HPV18, the most common causes for cervical cancer. The Phase 1 trial included 18 women with cervical dysplasia, a precancerous condition of the cervix caused by chronic HPV infection. Patients received VGX-3100 together with a brief, mild electric shock at the injection site, which helps to deliver the DNA vaccine into the women’s cells. VGX-3100 was safe and well tolerated. After vaccination, the women produced immune cells that were capable of attacking and killing HPV-infected cells. The results suggest that this vaccine could clear chronic HPV infections, and prevent precancerous cells from becoming cancerous. The study was recently published in the journal Science Translational Medicine.1
+
+Genticel’s vaccine candidate ProCervix uses the Adenylate Cyclase (CyaA) technology, a protein vector that delivers the E7 antigens from HPV16 and HPV18. The CyaA vector directly targets professional antigen presenting cells (APC) in vivo, and the unique delivery mode allows the antigen to induce strong CD4+ and CD8+ T cell responses. The Phase 1 clinical trial set out to evaluate the safety and immunogenicity of ProCervix in combination with a commercially available product as adjuvant. Ascending dose cohorts were studied. The researchers found that ProCervix formulated with adjuvant shows good safety and local tolerance at the highest dose evaluated. In the majority of vaccinated women HPV-E7-antigen specific T cell responses were detected, and viral clearance was several-fold higher in the group treated with ProCervix, compared with the placebo group.
+
+“This trial is the first ever to recruit HPV infected women with no cervical lesions; ProCervix may become the first product that actually closes the gap between preventive vaccines and later stage therapeutic options,” said Dr Marie-Christine Bissery, chief scientific officer of Genticel. “Additional longer-term clinical data is being collected, including viral clearance in women vaccinated with a reconstituted lyophilized form of ProCervix.”
+
+Reference
+
+1. Bagarazzi ML, et al. Sci Transl Med. 2012; 4:155ra138
+
+Flu shot may prevents heart attacks and stroke
+
+Two sets of research presented at the 2012 Canadian Cardiovascular Congress suggest that influenza vaccination can dramatically reduce the risk of heart attacks and stroke both for people with and without underlying conditions such as heart disease.
+
+A team of researchers led by Dr Jacob Udell, a cardiologist at Women’s College Hospital and the University of Toronto, looked at four previously published clinical studies dating back to the 1960s. These studies included over 3000 people whose average age was 60 y, with and without established heart disease. Participants in all the studies were randomly assigned to receive a flu vaccine, no vaccine or a placebo injection, and were tracked for the following year. Udell and his team found that individuals who received a flu shot, regardless of whether they had had a history of heart disease, had a 50% lower risk of a major cardiac event (including heart attack, stroke, or cardiac death) compared with those who received placebo. In fact, the flu vaccine seemed to reduce death from any cause by about 40%.
+
+The findings suggest that “perhaps that the flu vaccine is a heart vaccine,” Dr Udell said.
+
+The reason for the link is not exactly clear. Possible explainations could be that when people develop heart disease, some factor tips them over the edge - such as plaque clogging ateries or lower levels of oxygen as a result of the flu. The influenza vaccine might stop this “tipping“ by preventing the infection. “Either one is very provocative, and it’s important to drill down and get the answer,” Dr Udell said.
+
+Another set of studies showed, that, over the course of a flu season, people with implantable cardiac defibrillators (ICDs) who were vaccinated against influenza received fewer shocks from their devices than unvaccinated individuals. An ICD is designed to detect cardiac arrhythmia in a patient and correct it by delivering an electric jolt to the heart. Anecdotal evidence suggests that patients receive more ICD shocks during the course of the flu season. Cardiologists Dr Ramanan Kumareswaran and Dr Sheldon Singh tried to figure out what they could do to reduce the number of shocks in (their clinic’s) ICD population during the flu season.
+
+The team at Sunnybrook Health Sciences Centre asked 230 of their ICD patients to complete a survey that included health status and whether they had received an influenza vaccine in the past year. The average age of patients was 70–74 y. The investigators found that respondents who had been vaccinated received more or fewer ICD shocks than those who had been vaccinated. More specifically, 10.6% of flu vaccinated patients received at least one ICD therapy, compared with 13.7% of the nonvaccinated patients.
+
+“What is interesting is that if this is consistent over time, it could be of significant benefit to our patient population who already have compromised survival to start with,” Dr Singh states. “We would like to look at this on a larger scale to determine whether or not our results can be replicated.”
+
+CDX-1401 combined with TLR agonist: Positive phase 1 results
+
+Celldex Therapeutics reported positive Phase 1 results for their tumor vaccine CDX-1401 in combination with the toll-like receptor (TLR) agonist resiquimod.
+
+CDX-1401 is a next-generation, off-the-shelf, cancer vaccine designed to activate the patient’s immune system against cancers expressing the tumor marker NY-ESO-1. The product is a fusion protein consisting of a fully human monoclonal antibody (mAb) with specificity for the dendritic cell (DC) receptor DEC-205 linked to the NY-ESO-1 tumor antigen. Selective delivery of NY-ESO-1 antigen to DCs allows this vaccine to induce robust immune responses against the antigen-expressing cancer cells. Targeting protein antigens to the DEC-205 receptor on DCs was pioneered by Dr Ralph Steinman, who received the 2011 Nobel Prize in Physiology or Medicine for his discovery of the DC and its role in adaptive immunity. He was a member of Celldex’s Scientific Advisory Board before he passed away last year.
+
+After preclinical studies showed that CDX-1401 could induce potent and broad immunity, the Phase 1 study assessed the safety, immunogenicity and clinical activity of escalating doses of the vaccine plus resiquimod and/or Poly ICLC in 45 patients with advanced malignancies (21 melanoma, six ovarian, five sarcoma, four non-small cell lung cancer, four colorectal, five other) who had no other treatment options available. 87% of patients had distant metastases at entry, and 60% had confirmed NY-ESO expression in archived tumor samples. Ten patients received multiple cycles of the treatment regimen (six weeks of treatment followed by a six-week rest), including five patients who received three or more cycles. Eight patients completed two years on study, and eight patients remain in follow-up. Stable disease was maintained in 13 patients for up to 13.4 mo with a median of 6.7 mo. In addition, two patients had significant tumor shrinkage. The treatment was generally well tolerated, and no dose limiting toxicities were observed. Significant anti-NY-ESO-1 titers were elicited in 79% of evaluable patients. Approximately 54% of patients with NY-ESO-1 positive tumors had anti-NY-ESO-1 titers at baseline, and most increased after vaccination. Humoral responses were elicited in both NY-ESO-1-positive and -negative patients. NY-ESO-1-specific T cell responses were absent or low at baseline, but increased post-vaccination in 53% of evaluable patients, including both CD4 and/or CD8 T-cell responses. Robust immune responses were observed with CDX-1401 with resiquimod and Poly ICLC alone and in combination.
+
+The Phase 1 study of CDX-1401 is the first clinical study known to demonstrate that an off-the-shelf vaccine that targets dendritic cells in vivo through DEC-205 can safely lead to robust humoral and cellular immunity when combined with TLR agonists in cancer patients — overcoming a significant challenge in the development of protein-based vaccines.
+
+Three MRSA vaccines in early clinical trials
+
+Three experimental vaccine candidates for the prevention of methicillin-resistant Staphylococcus aureus (MRSA) infection are in early clinical testing. The novel vaccines developed by Pfizer, GlaxoSmithKline (GSK) and NovaDigm Therapeutics are the medical community’s latest hope against the powerful staph infection that kills more than 11,400 Americans annually and can cost as much as $8 billion a year to treat. Other companies, including Merck, have already tried and failed to make an effective vaccine.
+
+Benign S. aureus bacteria normally live on people’s skin and nasal passageways. Through cuts, sores, catheters and breathing tubes the bacteria may enter the skin and cause infection. MRSA it a common infection in hospitals and nursing homes, but is increasingly finding its way into daycare centers, schools and prisons.
+
+Already, MRSA is resistant to most antibiotic treatments. The more often that the few effective therapies are used, the more likely it is that the bacteria will develop resistance to them as well. Thus there is a urgent need for an effective vaccine.
+
+“It is very clear we need a vaccine, and we need it soon,” Dr Robert Daum, a pediatrics professor at the University of Chicago and principal investigator at the school’s MRSA Research Center, told Bloomberg. “The challenge is, we do not really know what makes people immune to staph infections.”
+
+The vaccines from the three companies are in early stages in the pipeline, and it will take years before any of them could be approved should they prove efficacious. The products developed by Pfizer and GSK are designed to attack on several biological fronts at once. According to Dr Emilio Emini, Pfizer’s chief scientific officer for vaccine research, the feeling in the field right now is that a vaccine that is driven to one specific immunological target would probably be insufficient. Pfizer has two candidates in early trials, containing three and four seperate antigens, respectively. GSK has completed the first Phase 1 trial of its four-component vaccine.
+
+NovaDigm‘s experimental product NDV-3 aims to spur patients‘ immune systems to recognize MRSA infection on the skin, before it spreads within the body. Two completed Phase 1 trials showed that NDV-3 is safe in humans, and previous studies in mice found that NDV-3 created a protective layer of white blood cells around a skin wound infected with MRSA.
+
+An interesting alternative solution that would not require a vaccine is investigated by Dr Menachem Shoham, at Case Western Reserve University in Cleveland, Ohio. He is attempting to outwit the bacteria rather than kill it by ending its ability to create the poisonous toxins it produces. “Since the survival of the bugs is not threatened by our approach, the likelihood of resistance development is small,” Shoham explained.
+
+Ovarian cancer vaccine candidate DPX-Survivac: positive interim results from phase 1
+
+The Canadian clinical stage vaccine company Immunovaccine Inc. recently announced positive interim results from its Phase 1 clinical trial of DPX-Survivac, an ovarian cancer vaccine candidate.
+
+The ongoing Phase 1 study is a multi-center, open-label, dose-ranging study in previously diagnosed ovarian cancer patients who have been treated by surgery and chemotherapy. Patients received a total of three DPX-Survivac vaccinations three weeks apart. One group of patients received DPX-Survivac alone. Two additional groups of patients received a low dose or a high dose of DPX-Survivac in combination with a low dose of oral cyclophosphamide. The primary aim of the study is to evaluate safety and tolerability of DPX-Survivac alone or in combination with the immune modulator cyclophosphamide. A secondary endpoint is the evaluation of the immune response produced by the vaccine.
+
+The interim analysis showed the vaccine to be safe and well tolerated. All nine patients receiving DPX-Survivac in comination with cyclophosphamide produced a targeted immune response following only one or two vaccine administrations. Patients receiving a higher dose of the DPX-Survivac in combination with cyclophosphamide produced immune responses after only one vaccination and generally exhibited higher antigen-specific immunity than those receiving the combination with a lower vaccine dose, suggesting dose-related activity. Patients in both groups (low and high dose) experienced consistent immune responses that were detected at two consecutive time points. Additional results from the interim analysis showed that patients receiving DPX-Survivac alone were capable of producing antigen-specific immune responses. Final results from the study are expected by the end of the year.
+
+“These interim results provide important support for the ongoing DPX-Survivac development program as they clearly demonstrate that the vaccine can activate the desired immunity in our target patient population,” said Dr Marc Mansour, chief science officer of Immunovaccine. “This offers further support of the fundamental advantages and potential of our DepoVax platform as a powerful vaccine adjuvanting technology.”
+
+Immunovaccine has already received clearance from US FDA and Health Canada for the initiation of a phase 2 trial of DPX-Survivac immediately following the completion of the ongoing phase 1 study.
+
+DPX-Survivac consists of survivin-based peptide antigens formulated in Immunovaccine’s proprietary DepoVax™ adjuvant. Survivin is a promising tumor-associated antigen (TAA) because of its therapeutic potential and its cancer specificity. This antigen is broadly overexpressed in multiple cancer types (including ovarian, breast, colon and lung cancers) and plays an essential role in antagonizing apoptosis, supporting tumor-associated angiogenesis, and promoting resistance to various anti-cancer therapies. It is also a prognostic factor for many cancers and it is found in a higher percentage of tumors than other TAA’s. DPX-Survivac is designed to elicit cytotoxic T-cell responses against cells presenting survivin peptides on HLA class I molecules. Survivin-specific T-cells have been shown to target and kill survivin-expressing cancer cells while sparing normal cells. The vaccine trains the immune system to actively and specifically search for and destroy tumor cells.
+
+Chinese biotech partnership brings first hepatitis E vaccine to the market
+
+In October this year, the world’s first hepatitis E virus (HEV) vaccine—Hecolin—began rolling out of a Chinese factory, after it had been approved by China’s State Food and Drug Administration (SFDA) in December 2011.
+
+The waterborn HEV mainly occurs in developing countries with poor sanitation. It is particularly prevalent in east and south Asia. In most cases the virus causes only mild disease, but HEV infection may also lead to acute liver failure, with the mortality rate reaching 4% in some regions and 20% in women who are in the later stages of pregancy. A severe hEV outbreak in the Xinjiang Uygur Autonomous Region in the northwest of China caused almost 120,000 infections and more than 700 deaths between 1986 and 1988. Prior to the release of the new vaccine Hecolin, improved sanitation was the most effective and only way to stem the disease.
+
+More than 10 y ago, researchers at Xiamen University in Fujian province genetically modified a strain of the bacterium Escherichia coli to produce a protein that, when injected into humans, stimulates the body’s immune system to make protective antibodies against HEV. In 2000, the investment of the Yangshengtang Group, a company with interests in food and health care, led to a joint biotech laboratory in partnership with the university, and preclinical and clinical development of the vaccine began. In 2006 the laboratory was given national status by the Chinese Ministry of Science and Technology and relaunched as the National Institute of Diagnostics and Vaccine Development in Infectious Diseases (NIDVD). The institute aims to bring together academia and industry in developing and commercializing new vaccines. Yangshengtang set up a subsidiary company called Innovax to take potential vaccines through clinical trials to manufacturing. The HEV vaccine Hecolin is the company’s first product to reach the market. A vaccine against human papilloma virus is still in preclinical stage.
+
+After a large phase 3 clinical trial showed Hecolin to be highly effective in preventing HEV infection, the vaccine was approved at the end of 2011. Phase 3 results were published in the Lancet in 2010.1 The development of Hecolin cost about 500 million renminbi—or $80 million, much of which came from the Chinese governent through the university. The vaccine will be sold to distributors in China at a cost of 110 renminbi ($17.60 US dollars) per dose, and Innovax expects sales to reach 62 million renminbi in 2013. According to Dr Jun Zhang, deputy director of the NIDVD, the public-private model helps to ensure that vital vaccines are developed regardless of whether they prove to be profitable for manufacturers.
+
+There is also a need for Hecolin in other developing countries such as in Africa. Xiamen University and Innovax are in talks with the World Health Organization (WHO) to register Hecolin with the organization’s Prequalification Programme, which makes medicines available to agencies such as the United Nations Children’s Fund and the Joint UN Programme on HIV/AIDS. “We have to be sure that these vaccines can be used anywhere,” says Dr Jeremy Farrar, director of the Oxford University Clinical Research Unit in Ho Chi Minh City, Vietnam . “It would be a great shame if these products were not available outside China.”
+
+Therapeutic vaccine for treatment of genital herpes enters phase 2
+
+The biotechnology company Agenus Inc. has recently initiated a phase 2 clinical study of HerpV, their recombinant “off-the-shelf“ therapeutic vaccine candidate for the treatment of genital herpes in subjects positive for Herpes Simplex Virus 2 (HSV-2) infection .
+
+Genital herpes affects more than 60 million Americans—or one in six people between 14 and 49 y, according to the Centers for Disease Control (CDC). The disease, caused by HSV-2, often results in recurrent painful sores in the genital area. Current therapies involve taking daily medication that only partly suppresses the virus.
+
+The recombinant therapeutic vaccine HerpV is based on Agenus‘ Heat Shock Protein (HSP) platform technology, and is administered with the company’s QS-21 Stimulon adjuvant, a saponin extracted from the bark of the Quillaja saponaria tree. HerpV consists of recombinant human HSP-70 complexed with 32 distinct 35-mer synthetic peptides from the HSV-2 proteome. This broad spectrum of herpes antigens should allow for broader and more accurate immune targeting and surveillance, and reduce immune escape. Furthermore, the diversity of antigens in HerpV is designed to increase the chance of providing efficacy for a wide segment of the patient population. In a previous phase 1 study, HerpV was well tolerated and induced statistically significant CD4+ T-cell reponses to HSV-2 antigens in all subjects, as well as CD8+ T cell responses in the majority of subjects.
+
+The randomized, double-blind, multicenter phase 2 trial will enroll 75 HSV-2-positive subjects with a history of frequent disease recurrences. 65 subjects will receive the active treatment, Herpv and QS-21, and a control group of 10 patients will receive placebo. Six months after treatment, a booster injection will be given to evaluate the durability of treatment effect. The study will test the efficacy of the HerpV vaccine as measured by effect on genital viral shedding. According to experts in HSV-2 clinical research, a reduction in viral shedding, the driving force behind the spread of genital herpes, is an important surrogate for clinical benefit in potentially reducing recurrent outbreaks.
+
+“Our earlier clinical experience demonstrated an unprecedented immune response with both arms of the immune system (CD8+ and CD4+ T cells) being activated in subjects vaccinated with HerpV and QS-21, but not in subjects receiving placebo,” said Dr Garo H. Armen, chairman and CEO of Agenus Inc. “Incorporating a broad spectrum of herpes antigens along with QS-21 has the potential enable the immune system’s ability to recognize and destroy HSV-2-infected cells.”
+
+Visionary concept: Printable vaccines
+
+The US biologist and sequencer Dr J. Craig Venter is exploring an exciting new concept, printable vaccines. His vision for the future of vaccines: Making available downloadable software that allows people to print a vaccine and inject it at home.
+
+3-D printing has been around for about three decades and can now print objects in glass, metal, plastics and even biodegradable materials. It has been used to create everything from jewelery, shoes, aeroplane components and even mechanical devices. Craig Venter and his team are already testing a version of the digital biological converter, or “teleporter.“ It is a 3-D printer for DNA, a “3-D printer for life“, as Dr Venter calls it.
+
+The technique termed biological teleportation would offer people the benefit of speed. This could be of advantage in situations were a vaccine is needed quickly, as was the case during the H1N1 outbreak in 2009. If one had been able to digitize the virus and email it, “it could have gone around the world digitally,“ allowing researchers to study it and to build a vaccine more quickly, Dr Venter said.
+
+“Imagine being able to download a vaccine or your medicine on your computer at home,” Dr Venter said, as quoted by The Atlantic. “That’s the not-too-distant future, and it wipes out the possibility of an epidemic.”
+
+Dr Venter is not the first to try to print biological ware. Scientists have already experimented with printing blood vessels and organs.
+
+While the concept is intriguing, it would be tough case for regulators. Of course scientists and engineers would have to ensure that molecules are printed accurately, because even small changes could affect the function of a printed protein. Considering the amount of spam emails and fake drugs making their way around, regulators might be wary of the security risks involved in people potentially downloading, printing and injecting fake vaccines or even harmful viruses. Perhaps printable life technologies might spur the development of better spam filters or e-mail validation software as well.
+
+“Regulation will be an interesting aspect of this,” Dr Venter conceded. “We get a lot of spam e-mail. People making fake drugs and selling them for profit. It’s a nasty world out there,” he said.
+</body>
+
+
+Previously published online: www.landesbioscience.com/journals/vaccines/article/23373
