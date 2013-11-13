@@ -1,0 +1,332 @@
+<article-title>Crosstalk between metabolic and neuropsychiatric disorders</article-title>
+
+<abstract>
+Evidence supporting the concurrence of metabolic disturbances (e.g. insulin resistance, diabetes and obesity) and neuropsychiatric disorders has been demonstrated in both human and animal studies, suggesting the possibility that they have shared pathophysiological mechanisms. During the past decade, our understanding for the role of insulin in both normal and abnormal central nervous system (CNS) processes has become increasingly refined. Evidence indicates that insulin is a pleiotropic peptide, critical to neurotrophism, neuroplasticity, and neuromodulation. Moreover, the role of insulin underscores its importance in the development of several neuropsychiatric disorders, including, but not limited to, mechanisms involved in the pathogenesis and progression towards diabetes, obesity, and neurodegenerative disorders, such as Alzheimer's disease. This review focuses on the insulin-mediated effects on normal and abnormal brain function and discusses why targeting insulin-related pathways in the brain may emerge as a new approach for refining treatment of neurological and psychiatric disorders.
+</abstract>
+
+
+The electronic version of this article is the complete one and can be found at: http://f1000.com/reports/b/4/14
+<body>
+Overlap between neuropsychiatric disorders and metabolic disturbances
+
+Neuropsychiatric disorders are debilitating conditions associated with excess and premature mortality. Disease modeling in neuropsychiatric disorders implicates the role of abnormal cellular structure and function, resulting in consequential disturbances in synaptic signaling and discrete neural circuits. A concatenation of research evidence underscores the role of genetic, epigenetic, as well as environmental pathogenic influences. However, the specific pathoetiological mechanisms underlying the phenomenology of most neurological and psychiatric disorders have yet to be elucidated.
+
+Notwithstanding, convergent evidence indicates that alterations in neuronal integrity and function are mediated by abnormal central insulin signaling. The critical role of insulin in normal and abnormal CNS functioning provides the framework for characterizing its role in the pathoetiology, progression, and treatment of several neuropsychiatric disorders.
+
+Moreover, refining disease models for neuropsychiatric disorders, by evaluating the phenotypic and neurobiological overlap between neuropsychiatric disorders with metabolic disturbances, is an essential step in the development of personalized, preventative, and/or pre-emptive treatments. This review broadly aims to underscore insulin's salience to pathoetiological and therapeutic research in neuropsychiatric disorders. Towards these aims, we review, herein, descriptive studies in human and animal models documenting the phenotypic overlap of psychiatric and neurological disorders with metabolic disturbances; we also report on a pathophysiological nexus shared by neuropsychiatric disorders and metabolic disturbances with a particular emphasis on the interplay between insulin and central reward networks, stress, and neuroinflammation. We also attempt to identify research vistas capable of empirically establishing a therapeutic role for targeting insulin and/or insulin-related pathways to generate novel correction strategies for select neuropsychiatric disorders.
+
+The original association between disruptions in peripheral glucose metabolism and psychiatric disorders was documented approximately 400 years ago by Thomas Willis (1621-1675). He noted that diabetes often appeared among persons who had experienced stressful life events, sadness, or long sorrow [1]. In 1899, Henry Maudsley observed that diabetes and insanity are often co-expressed in families (as quoted by [2]). One of the first systematic studies testing Willis’ hypothesis was described in 1935, by the American psychiatrist Dr. W. Menninger, who postulated the existence of psychogenic diabetes and described a “diabetic personality” [3]. Historically, insulin-shock therapy was observed to mitigate psychotic and affective symptoms; unfortunately, safety concerns with insulin therapy appropriately resulted in its termination as an acceptable treatment modality [4]. It was also suggested that enhancing glucose metabolism and related insulin-signaling pathways in the brain improved functional activity of patients with schizophrenia [5].
+
+Brain disorders associated with an increased prevalence of insulin resistance/diabetes and/or obesity
+
+Schizophrenia
+
+Bipolar disorder
+
+Major Depressive Disorder
+
+Alzheimer's disease
+
+Vascular Dementia
+
+Parkinson's disease
+
+Huntington's disease
+
+Prader-Willi
+
+Alstrom syndrome
+
+Bardet-Biedl syndrome
+
+Down's syndrome1
+
+Ataxia-telangiectasia (Louis-Bar syndrome)
+
+Niemann-Pick disease
+
+Werner syndrome
+
+Wolfram syndrome
+
+Woodhouse-Sakati syndrome
+
+Glut1 deficiency
+
+Familiar hyperinsulinism
+
+Kearns-Sayre syndrome
+
+Klinefelter syndrome
+
+Feigenbaum syndrome
+
+Friedreich ataxia
+
+MELAS syndrome
+
+Myotonic dystrophy 1
+
+Narcolepsy
+
+Thiamine responsive megaloblastic anemia syndrome
+
+Spinocerebellar ataxia 3 (Machado-Joseph disease)
+
+Spinocerebellar ataxia 6
+
+Turner syndrome
+
+Presently, accumulating evidence from human clinical studies demonstrates a bidirectional association between metabolic disturbances and neuropsychiatric disorders (summarized in Table 1). Psychiatric disorders (e.g. schizophrenia and bipolar disorder) often co-occur with metabolic disturbances (e.g. insulin resistance, type II diabetes mellitus, obesity). For example, individuals with depression have a higher risk of developing type II diabetes mellitus by approximately 60% [6,7] (reviewed in [8], Table 1). Likewise, individuals with diabetes retain an elevated risk for developing depression [9]. Similarly, metabolic disturbances are reported to be two to four times higher in people with schizophrenia [10] (Table 1). Furthermore, psychotropic medications (e.g. antipsychotics and antidepressants) prescribed to individuals with psychiatric disorders are often accompanied by disturbances in metabolic parameters (e.g. hyperglycemia, impaired glucose tolerance, type II diabetes mellitus (reviewed in [11-13])).
+
+Metabolic disturbances have also been implicated in neurodegenerative disorders (e.g. Alzheimer's, Huntington's, and Parkinson's disease). Multiple clinical observations have demonstrated that dementia in general, and Alzheimer's disease in particular, is associated with type II diabetes mellitus and obesity. Moreover, type II diabetes mellitus is considered an independent risk factor for dementia, increasing the prevalence of dementia two-fold in diabetic populations [14-16] (Table 1). Other clinical observations have shown that impaired glucose tolerance affects up to 80% of Parkinson's disease patients (reviewed in [17]) (Table 1). The metabolic disturbances observed in individuals with Parkinson's disease may be linked to treatment. For example, Levodopa may induce hyperglycemia and hyperinsulinemia [18], whereas Bromocriptine may increase insulin sensitivity [19]. Likewise, the prevalence rates for type II diabetes mellitus and insulin abnormalities are approximately seven-fold higher in patients with Huntington's disease when compared to healthy matched controls [20-22] (Table 1). In addition, clinical research in congenital neurodegenerative disorders suggests that more than 20% of those affected will develop metabolic complications, such as type II diabetes mellitus and/or obesity; moreover, convergent evidence suggests that these may be causative (reviewed in [23]) (presented in Table 1). Furthermore, age-related processes likely contribute to the underlying pathophysiological mechanisms of neurodegenerative disorders, via natural and chronic changes in whole-body metabolism (i.e. insulin sensitivity), which may partially account for commonalities observed between neurodegenerative disorders and disturbances in metabolic profile (reviewed in [24,25]).
+
+Notably, starvation is also capable of inducing changes in emotional and behavioral brain functions. For example, based on case reports and diary entries during natural periods of food shortages during war and famine, it has been shown that starvation was frequently accompanied by mental illness, including instances of depression, anxiety, psychosis and suicide [26]. Similarly, eating disorders, such as anorexia nervosa and bulimia nervosa, are classified as serious mental illnesses with a mortality rate of 10% or higher (reviewed in [27,28]). Moreover, healthy controls exhibit psychopathology similar to those seen in patients with anorexia nervosa under conditions of starvation [29,30]. Furthermore, dysfunctions in insulin signaling pathways have been implicated as part of the underlying pathophysiological mechanisms for both anorexia and bulimia nervosa (reviewed in [31]).
+
+Taken together, clinical studies have provided ample evidence describing an overlap between metabolic disturbances and neuropsychiatric disorders. Thus, pathophysiological changes in brain function and metabolic status coincide at a rate suggestive of a shared pathoetiology, suggesting that humoral factors (discussed below) are important as a part of this nexus (Figure 1). Humoral factors, such as hormones and cytokines, circulate in the blood and serve as immediate and intermediate “communicators” between the brain and peripheral organs. Human and animal studies have shown that acute and/or chronic inflammatory processes and stress can trigger whole-body adaptation changes in the brain and peripheral organs (discussed below).
+
+Role of humoral factors in normal and pathological nexus between peripheral metabolism and brain functions
+
+Stress and metabolism
+
+Stress (e.g. hunger, childhood adversity, challenging life events) has been implicated in the pathogenesis of obesity, addiction, and other psychiatric disorders [32,33]. The chronic activation of the hypothalamic-pituitary-adrenal axis, resulting in the overproduction of stress/glucocorticoid hormones, has been documented to be a consequence of abnormal negative feedback and reported in individuals exposed to trauma. Moreover, an increase in glucocorticoid resistance has been found in more than 50% of mood disorder cases [34,35]. Conversely, exogenous administration of glucocorticoids is associated with hyperinsulinemia and insulin resistance [36]. Obese patients have increased levels of 11-?-hydroxysteroid dehydrogenase type 1 (11-?-HSD; an enzyme which reduces cortisone to the active stress hormone cortisol following activation of glucocorticoid receptors) [37], which has been reported to be a candidate biomarker for depression [38].
+
+Hunger can trigger intense bouts of feeding in rodents, monkeys, and humans [32,33,39]. Rats undergoing cyclic periods of caloric restriction and re-feeding, which sensitize them to stress-induced overeating, demonstrate compulsive-like consumption of palatable foods [40]. Also, mice overexpressing corticotrophin-releasing hormone are characterized by increased food intake, weight gain, insulin resistance, increased anxiety, impaired learning, and altered adaptations to stress [41, 42].
+
+Inflammation and metabolism
+
+Abnormal levels of immunomodulating agents, such as cytokines, are associated with inflammatory processes in the brain and peripheral organs. Studies in humans and rodents have demonstrated that chronic inflammation may be a key factor in the pathogenesis of neuropsychiatric disorders and metabolic disturbances.
+
+Inflammatory cytokines, together with activated astrocytes and microglia (i.e. neuroinflammation), have been found in patients with Parkinson's disease, Alzheimer's disease, amyotrophic lateral sclerosis, and multiple sclerosis (reviewed in [43-46]). Cytokines have the capacity to influence the synthesis of neurotransmitters, including the release and reuptake of monoamines [47]. The injection of endotoxin into healthy volunteers induces depressive symptoms and object recognition deficits [48]. Many groups have shown that elevated levels of inflammatory cytokines are found in individuals with mood disorders (reviewed in [47,49-53]). In addition, antidepressants are less effective in individuals with an active inflammatory state, and antidepressant efficiency may be enhanced when combined with agents known to affect the immune-inflammatory system (e.g. acetylsalicylic acid) [54-56]. The aforementioned findings in humans were supported by animal studies, which have indicated that the systemic administration of pro-inflammatory cytokines (e.g. tumor necrosis factor-? [TNF?], interleukin-1? [IL1?] and interleukin-6 [IL-6]) in rodents induces “sickness behavior” associated with anorexia, sleep disturbance, neurocognitive impairment, fatigue, and reduced self-care behaviors (reviewed in [57]).
+
+Obesity is classified as a state of chronic low-grade inflammation (reviewed in [58,59]). Chronic obesity is associated with abnormal insulin, cytokine, and adipokine (e.g. leptin and resistin) function (reviewed in [60]). Notably, elevated serum levels of leptin have been found in patients with depression [61]. Postmortem studies of depressed patients who committed suicide revealed a down-regulation of leptin receptors in the frontal cortex [61]. Circulating levels of resistin (secreted by adipocytes and immunocompetent cells) were associated with body mass index in patients with depression; however, this may be the effect of antidepressant treatment, which has been shown to decrease resistin levels [62]. In addition, animal studies have demonstrated that Toll-like receptor (TLR) signaling, which is a fundamental component in the innate immune system response, is implicated in mediating insulin and leptin resistance in the brain (reviewed in [63]). For instance, obese diabetic mice with a mutation in the leptin gene (ob/ob) or leptin receptor (db/db) have demonstrated deficits in cell-mediated immunity [64,65]. Moreover, rodents on high-fat diets produce a local pro-inflammatory response that subsequently induces insulin resistance in the hypothalamus [66] – a state which may be reversed via the pharmacological inhibition of neuronal TLR signaling [67,68].
+
+Insulin physiology and pathophysiology in the brain
+
+Approximately 25% of total body glucose utilization is required for proper brain function, as glucose is the obligatory energy substrate of the brain (reviewed in [69]). In contrast to peripheral organs where glucose can go through various metabolic pathways (e.g. storage in the form of glycogen and lipids), the “fate” of glucose in the brain is determined almost entirely by oxidation (reviewed in [69]). Thus, similar to the periphery, glucose in the CNS may proceed to the following: a. glycolysis, b. storage as glycogen, c. contribute to glycolipid/glycoprotein production, and/or d. serve as a progenitor to three principle neurotransmitters in the brain (glutamate, gamma-aminobutyric acid [GABA], and acetylcholine) (reviewed in [69]).
+
+The brain is traditionally viewed as an organ that metabolizes glucose independently of insulin; however, this view has been challenged recently by several studies. Insulin receptors and insulin-sensitive glucose transporters (e.g. glucose transporter [GLUT]-4 and GLUT-8) have been identified in the CNS on both neurons and astrocytes [70-72]. Also, insulin receptors, as well as downstream effectors of insulin, have exhibited similar patterns of distribution throughout the brain (e.g. olfactory bulbs, hypothalamus, hippocampus, cortex, and cerebellum) [73]. Evidence also exists for insulin receptor expression in the substantia nigra, basal ganglia, and frontal cortex [71,74,75].
+
+Insulin's ability to cross the blood brain barrier was evinced approximately four decades ago [76]; however, the amount of insulin capable of traversing the blood brain barrier varies across species and pathological conditions [77,78]. For example, acute hyperinsulinemia increases insulin concentration in the brain, whereas chronic hyperinsulinemia (e.g. during type II diabetes mellitus and obesity) down-regulates insulin receptor expression in the blood brain barrier, characterized by central insulin resistance (reviewed in [79]). Both the presence of insulin receptors in the brain and insulin's ability to cross the blood brain barrier suggest that insulin is required for normal brain function (summarized in Figure 2).
+
+Effect of insulin on brain functions
+
+Neuronal (central) insulin signaling has been shown to have an important impact on the regulation of whole-body glucose metabolism and energy homeostasis [80,81]. Insulin has catabolic effects on the brain, whereas it is anabolic at the level of peripheral insulin-sensitive tissues (e.g. liver, fat tissue, and skeletal muscle) (reviewed in [82]). Studies in rodents have shown that direct administration of insulin into the brain inhibits food intake (i.e. anorexigenic effect) and reduces body weight [81,83,84]. More specifically, the infusion of insulin into the ventral tegmental area in rats decreases food intake [85,86]. Moreover, diminished insulin signaling in the brain has been associated with an orexigenic effect (e.g. weight gain and peripheral insulin resistance) [83,84,87-90]. The infusion of insulin (or a small-molecule insulin mimetic) into the third cerebral ventricle suppressed glucose production, independent of circulating levels of insulin and other glucoregulatory hormones [91]. Studies using genetic manipulations of insulin receptors in the brain have illustrated the critical role of neuronal insulin signaling pathways in regulating feeding behavior and whole-body glucose metabolism (summarized in Table 2). For instance, mice lacking insulin receptors in the brain (i.e. NIRKO) develop insulin resistance and obesity [90] – phenotypes consistent with mice exhibiting hypothalamic-specific insulin receptor knockout [88]. In the drug-inducible, brain-specific, insulin receptor knockout model, mice suffer from hyperinsulinemia and have an upregulation of hepatic leptin receptors [92]. The deletion of insulin receptors from midbrain dopamine neurons in mice results in hyperphagia and increased body weight [93]. Brain-specific insulin receptor substrate-2 (IRS2) knockout mice are overweight, hyperinsulinemic, and glucose intolerant [94] – results similar to those seen in conventional IRS2 knockout mice [95].
+
+Effect of insulin signaling in the brain on peripheral glucose metabolism: animal-based studies
+
+Moreover, the ablation of insulin receptors in the brain or liver of mice results in obesity- and diabetes-associated phenotypes, whereas the deletion of insulin receptors from adipose tissue produces the opposite effect (i.e. weight loss) (reviewed in [96]). Taken together, these observations suggest that organ-specific regulation of insulin is used to maintain glucose homeostasis.
+
+Insulin also participates in reward circuits by regulating neurons of the mesolimbic dopamine-mediated pathway, implicated in the motivating, rewarding, and reinforcing properties of food (reviewed in [97], Figure 2).
+
+Studies in human subjects have identified an imbalance of several neuronal circuits in obesity, which include aspects of reward-saliency, motivation, learning-conditioning, as well as the inhibitory control of emotional regulation and executive function (reviewed in [98]). A novel hypothesis postulates that obesity is a consequence of addictive food behaviors (reviewed in [98-101]).
+
+Obesity, which is often associated with insulin resistance, has been characterized by striatal dopamine-2 (D2) receptor deficits [102]. Leptin-deficient (ob/ob) mice are genetically obese and diabetic and also have low levels of tyrosine hydroxylase (a rate-limiting enzyme in dopamine synthesis) in their midbrain dopamine neurons [103]. These mice also have reduced dopamine release into the nucleus accumbens [103] and decreased somatodendritic vesicular stores of dopamine in the ventral tegmental area [104]. Treatment of ob/ob mice with dopamine-1/-2 (D1/D2) receptor agonists reduces hyperphagic behavior, obesity, and improves insulin sensitivity [105]. Moreover, ob/ob mice show diminished sensitivity to the dopamine-dependent motivational and psychomotor stimulant effects of cocaine and amphetamines [103].
+
+Administration of the D2 receptor agonist Bromocriptine improves insulin sensitivity in animals and humans [19,106]. Also, intracerebroventricular insulin administration increases the amount and activity of dopamine transporters in the substantia nigra [107,108]. Diabetic rats have greatly diminished levels of dopamine in the midbrain and striatum, resulting in decreased sensitivity to the dopamine-dependent rewarding properties of amphetamines, compared with control rats with physiological levels of insulin [109,110]. Moreover, inhibiting the IRS2 in the midbrain attenuates the rewarding properties of cocaine and morphine in mice [111,112].
+
+Insulin and insulin-mediated signaling pathways also have an important role in the regulation of normal emotional and cognitive brain functions (Figure 2). Several studies have shown that insulin may contribute to normal memory function and learning. For example, training for memory tasks in animals causes an upregulation of insulin receptors in the hippocampus [113]. Historically, cognitive impairment has been associated with insulin resistance and type II diabetes mellitus and was classified as diabetic encephalopathy [114]. To take a more extreme case, obesity has been identified as a risk factor for dementia [115,116]. Individuals with Alzheimer's disease have a lower concentration of cerebrospinal fluid insulin and a higher plasma insulin concentration than controls, both of which indicate impaired insulin metabolism in the brain [117]. Insulin treatment in individuals with Alzheimer's disease has produced beneficial effects on memory improvement and performance [118]. In parallel, the systemic infusion of insulin has displayed improvements in verbal memory and selective attention in humans [119]. Moreover, intranasal administration of insulin has been evinced to facilitate memory performance [120], and similarly acute intracerebroventricular insulin administration resulted in enhanced memory performance in rodents [121]. However, it is still unclear whether or not insulin has a direct effect on brain function or if these changes in brain function are a consequence of disturbances in peripheral glucose metabolism (reviewed in [122]).
+
+Growing evidence supports the notion that Alzheimer's disease could be conceptualized as a metabolic disease with progressive impairment of the brain's capacity to utilize glucose, and respond to insulin and insulin-like growth factor (IGF) stimulation [123]. Indeed, insulin plays an important role in clearing ?-amyloid from the brain [124], which also regulated ?-amyloid levels by competitively blocking the insulin-degradation enzyme [125,126]. Moreover, insulin treatment reduces the plasma concentrations of the amyloid precursor protein – the precursor for the ?-amyloid peptide implicated in the development of Alzheimer's disease [118]. In addition, IGF-1 has been shown to have a protective effect against the development of amyloidosis in Tg2576 animals (an animal model for Alzheimer's disease with a Swedish double mutation of amyloid precursor protein: K670N/M671L) [124]. However, amyloidosis was promoted when mice developed high-fat diet-induced insulin resistance [127]. The aforementioned mouse models for brain-specific deletion of insulin signaling molecules (e.g. NIRKO, as well as IRS-2 knockout mice) also display increased levels of phosphorylated tau [128,129], implicated in Alzheimer's disease.
+
+Conclusion and research vistas
+
+Normal and pathological conditions (such as nutrients, oxygen, inflammatory factors, stress and hormones) have immediate impact on brain functions. Moreover, neurons and glial cells exist in a tight mutual structural-functional relationship that depends on the peripheral supply of glucose as their major energy source. Insulin receptors are expressed in the brain, as such insulin can cross the blood brain barrier, affecting not only whole-body glucose metabolism, but also a wide range of normal brain functions, such as reward, motivation, cognition, attention, and memory formation (Figure 2). Converging evidence indicates that insulin serves several critical roles in the CNS under both normal and abnormal conditions. Thus, pharmacological targeting of insulin-related pathways may be beneficial in the normalization of brain functions.
+
+It could be hypothesized that acute insults (i.e. ischemia) may immobilize compensatory pathways to protect and preserve normal neuronal function, whereas a chronic pathological state (e.g. insulin resistance, obesity, inflammation or chronic imbalanced hormonal regulation) may trigger decompensatory mechanisms that generate a perpetual cycle wherein the initial deregulation of central and peripheral glucose metabolism begins to affect neuronal functions, further exacerbating the underlying pathology. Moreover, it is important to take into consideration the role of humoral factors (circulating in the blood), which act as immediate and intermediate “communicators” between the brain and peripheral organs, and their effects on homeostatic adaptations to stress and starvation.
+
+The totality of evidence provides the basis for hypothesizing that these metabolic and neuropsychiatric disorders may share a common pathophysiological nexus. Critical effectors of this nexus include alterations in whole-body energy metabolism, oxidative stress, inflammation, insulin resistance, and corticosteroid signaling, as well as imbalances in cytokines and adipokines. Investigations that aim to refine the relative contributions of these effector systems, with a particular focus on convergent molecular pathways, may provide the basis for disease-related biomarker discovery, as well as novel treatment approaches for both metabolic and neuropsychiatric conditions.
+</body>
+
+
+Competing interests
+
+Roger S. McIntyre receives research grants from the following companies: Stanley Medical Research Institute, National Alliance for Research on Schizophrenia and Depression (NARSAD), National Institutes of Mental Health, Eli Lilly, Janssen-Ortho, Shire, Astra-Zeneca, Pfizer, Lundbeck, Forest and Sepracor. He is a member of the following advisory boards: Astra Zeneca, Bristol-Myers Squibb, Janssen-Ortho, Eli Lilly, Lundbeck, Pfizer, Shire and Merck. He is also a member of the following speakers bureaus: Janssen-Ortho, Astra-Zeneca, Eli Lilly, Lundbeck, Merck, Pfizer and Otsuka.
+
+References
+
+F1000 Factor 6
+
+Evaluated by Roger McIntyre 13 Jun 2012
+
+F1000 Factor 6
+
+Evaluated by Roger McIntyre 14 Jun 2012
+
+F1000 Factor 8
+
+Evaluated by Roger McIntyre 14 Jun 2012
+
+F1000 Factor 6
+
+Evaluated by Roger McIntyre 14 Jun 2012
+
+F1000 Factor 6
+
+Evaluated by Roger McIntyre 14 Jun 2012
+
+F1000 Factor 6
+
+Evaluated by Roger McIntyre 14 Jun 2012
+
+F1000 Factor 6
+
+Evaluated by Roger McIntyre 14 Jun 2012
+
+F1000 Factor 6
+
+Evaluated by Roger McIntyre 14 Jun 2012
+
+F1000 Factor 6
+
+Evaluated by Roger McIntyre 14 Jun 2012
+
+F1000 Factor 6
+
+Evaluated by Roger McIntyre 14 Jun 2012
+
+F1000 Factor 8
+
+Evaluated by Roger McIntyre 14 Jun 2012
+
+F1000 Factor 8
+
+Evaluated by Robert Sapolsky 03 Oct 2003
+
+F1000 Factor 6
+
+Evaluated by Roger McIntyre 14 Jun 2012
+
+F1000 Factor 6
+
+Evaluated by Roger McIntyre 14 Jun 2012
+
+F1000 Factor 11
+
+Evaluated by Marc Jeschke 25 Apr 2008, Ajay Chawla 15 Jun 2012
+
+F1000 Factor 6
+
+Evaluated by Roger McIntyre 14 Jun 2012
+
+F1000 Factor 8
+
+Evaluated by Roger McIntyre 14 Jun 2012
+
+F1000 Factor 6
+
+Evaluated by Helen Raybould 18 Mar 2009
+
+F1000 Factor 6
+
+Evaluated by Roger McIntyre 14 Jun 2012
+
+F1000 Factor 6
+
+Evaluated by Roger McIntyre 14 Jun 2012
+
+F1000 Factor 8
+
+Evaluated by Roger McIntyre 14 Jun 2012
+
+F1000 Factor 10
+
+Evaluated by Roger McIntyre 14 Jun 2012
+
+F1000 Factor 10
+
+Evaluated by Roger McIntyre 14 Jun 2012
+
+F1000 Factor 9
+
+Evaluated by Joel Elmquist 22 May 2008, Roger McIntyre 14 Jun 2012
+
+F1000 Factor 8
+
+Evaluated by Roger McIntyre 14 Jun 2012
+
+F1000 Factor 12
+
+Evaluated by Steven A Rosenzweig 01 Aug 2007, Roger McIntyre 14 Jun 2012
+
+F1000 Factor 10
+
+Evaluated by Roger McIntyre 14 Jun 2012
+
+F1000 Factor 8
+
+Evaluated by Roger McIntyre 14 Jun 2012
+
+F1000 Factor 6
+
+Evaluated by Roger McIntyre 14 Jun 2012
+
+F1000 Factor 11
+
+Evaluated by Claire-Dominique Walker 17 Nov 2006, Sadaf Farooqi 06 Feb 2007, Roger McIntyre 14 Jun 2012
+
+F1000 Factor 6
+
+Evaluated by Roger McIntyre 14 Jun 2012
+
+F1000 Factor 6
+
+Evaluated by Roger McIntyre 14 Jun 2012
+
+F1000 Factor 6
+
+Evaluated by Roger McIntyre 14 Jun 2012
+
+F1000 Factor 6
+
+Evaluated by Roger McIntyre 14 Jun 2012
+
+F1000 Factor 6
+
+Evaluated by Roger McIntyre 14 Jun 2012
+
+F1000 Factor 6
+
+Evaluated by Roger McIntyre 14 Jun 2012
+
+F1000 Factor 6
+
+Evaluated by Roger McIntyre 14 Jun 2012
+
+F1000 Factor 6
+
+Evaluated by Mark von Zastrow 09 Jan 2007
+
+F1000 Factor 6
+
+Evaluated by Roger McIntyre 14 Jun 2012
+
+F1000 Factor 6
+
+Evaluated by Oliver Wolf 08 Oct 2008
+
+F1000 Factor 6
+
+Evaluated by Roger McIntyre 14 Jun 2012
+
+F1000 Factor 6
+
+Evaluated by Roger McIntyre 14 Jun 2012
+
+F1000 Factor 6
+
+Evaluated by Roger McIntyre 14 Jun 2012
+
+F1000 Factor 8
+
+Evaluated by Roger McIntyre 14 Jun 2012
+
+Abbreviations
+
+dopamine-1
+
+dopamine-2
+
+insulin-like growth factor
+
+Toll-like receptor

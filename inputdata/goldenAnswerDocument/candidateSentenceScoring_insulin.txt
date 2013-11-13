@@ -1,0 +1,64 @@
+0 01 Dynamic Adipocyte Phosphoproteome Reveals that Akt Directly Regulates mTORC2
+1 02 Here, we quantitatively delineate the insulin signaling network in adipocytes by high-resolution mass spectrometry-based proteomics
+1 03 We identified 37,248 phosphorylation sites on 5,705 proteins in this single-cell type, with approximately 15% responding to insulin
+5 04 Highlights•MS/MS identified >37,000 phosphorylation sites in adipocytesInsulin regulates the phosphoproteome over a wide temporal timescaleAkt phosphorylates SIN1 on T86 in response to insulinSIN1 phosphorylation activates a positive feedback loop between Akt and mTORC2
+5 05  This points to mRNA turnover as a major determinant of insulin-regulated cellular growth and demonstrates that insulin regulates cellular processes by coordinated control of numerous signaling pathways that converge on common targets
+1 06 In contrast, insulin-dependent phosphorylation of Akt S473 was blunted in SIN1 T86A cells, but not in SIN1 WT cells (Figure 6E), suggesting that phosphorylation of SIN1 T86 by Akt directly regulates mTORC2 activity
+1 07 Raised plasma insulin concentrations and increased cardiac work will stimulate GLUT4 as well as CD36 to translocate to the sarcolemma
+1 08 During the development of insulin resistance and type 2 diabetes, CD36 becomes permanently localized at the sarcolemma, whereas GLUT4 internalizes
+1 09 These trafficking components, which are differently involved in GLUT4 or CD36 translocation, may be considered novel targets for the development of therapies to restore the imbalanced substrate utilization that occurs in obesity, insulin resistance and diabetic cardiomyopathy
+2 10 However, it has been reported that decreased endocytosis in response to insulin regulates GLUT4 translocation in adipocytes [46]
+1 11 Recently, it was shown that Arp2/3 is a downstream effector of Rac and that cofilin regulates actin depolymerization which again proposes that active actin cycling is essential for insulin-stimulated GLUT4 translocation [83]
+1 12 GLP-1 regulates insulin secretion and insulin gene expression via its action on the pancreas following binding at the G-protein coupled GLP-1R
+5 13 Models for insulin signalingInsulin regulates essential physiological functions by binding to its cell surface receptors, thereby activating signal transduction pathways that mediate cellular responses
+2 14 Activation of the same pathway by insulin regulates the activity of another SR protein, SRp40, and stimulates the inclusion of an alternative exon in the protein kinase C (PKC) II pre-mRNA [70, 71]
+0 15 OBJECTIVE—Atrial natriuretic peptide (ANP) regulates arterial blood pressure
+1 16 -Cell Hyperplasia Induced by Hepatic Insulin Resistance
+1 17 OBJECTIVEType 2 diabetes results from a combination of insulin resistance and impaired insulin secretion
+1 18 To directly address the effects of hepatic insulin resistance in adult animals, we developed an inducible liver-specific insulin receptor knockout mouse (iLIRKO)
+1 19 RESEARCH DESIGN AND METHODSUsing this approach, we were able to induce variable insulin receptor (IR) deficiency in a tissue-specific manner (liver mosaicism)
+1 20 RESULTSiLIRKO mice presented progressive hepatic and extrahepatic insulin resistance without liver dysfunction
+1 21 Our studies of iLIRKO suggest a cause-and-effect relationship between progressive insulin resistance and the fold increase of plasma insulin levels and 
+1 22 -cell lines, IR-A, but not IR-B, conferred a proliferative capacity in response to insulin or IGF-1, providing a potential explanation for the 
+1 23 -cell hyperplasia induced by liver insulin resistance in iLIRKO mice
+5 24 These findings suggest that insulin regulates growth independently of metabolism and that the number of insulin receptors is an important determinant of the specificity of insulin action
+1 25 Insulin Resistance and Altered Systemic Glucose Metabolism in Mice Lacking Nur77
+1 26 We determined glucose tolerance, tissue-specific insulin sensitivity, oxygen consumption, muscle and liver lipid content, muscle insulin signaling, and expression of glucose and lipid metabolism genes
+1 27 RESULTSMice with genetic deletion of Nur77 exhibited increased susceptibility to diet-induced obesity and insulin resistance
+1 28 Hyperinsulinemic-euglycemic clamp studies revealed greater high-fat diet–induced insulin resistance in both skeletal muscle and liver of Nur77 null mice compared with controls
+1 29 Loss of Nur77 expression in skeletal muscle impaired insulin signaling and markedly reduced GLUT4 protein expression
+1 30 The observation that Nur77 null mice display impaired insulin-stimulated glucose disposal is concordant with our previous finding that Nur77 regulates the expression of glycolytic genes in skeletal muscle (17)
+1 31 Our finding that Nur77 null mice have increased susceptibility for skeletal muscle insulin resistance is nevertheless consistent with the biologic pathways Nur77 regulates in muscle (17) and illustrates specifically the importance of muscle Nur77 in the regulation of whole-body glucose metabolism
+1 32 OBJECTIVE— Insulin stimulates glucose uptake in skeletal muscle and adipose tissues primarily by stimulating the translocation of vesicles containing a facilitative glucose transporter, GLUT4, from intracellular compartments to the plasma membrane
+1 33 RESULTS— Herein, we show that DOC2b, a SNARE-related protein containing double C2 domains but lacking a transmembrane region, is translocated to the plasma membrane upon insulin stimulation and directly associates with syntaxin-4 in an intracellular Ca2+-dependent manner
+5 34 However, the precise mechanism by which insulin regulates SNARE complex assembly remains poorly understood
+1 35 DOC2b regulates the step of GLUT4 vesicle fusion in response to insulin
+1 36 5A, are consistent with the idea that DOC2b is a calcium-sensing protein and regulates the GLUT4 vesicle fusion step in response to insulin
+1 37 2–5, suggest that DOC2b regulates glucose transport through modulating vesicle fusion processes but not insulin signaling
+5 38 However, the precise mechanism by which insulin regulates vesicle fusion is still largely unknown
+1 39 These data are consistent with the hypothesis that DOC2b regulates insulin-stimulated GLUT4 vesicle fusion
+5 40 Based on the above observations, we propose a simple model whereby insulin regulates SNARE regulator DOC2b, and basal level of [Ca2+]i may act in a constitutive manner to promote DOC2b–syntaxin-4 interaction involved in insulin-stimulated GLUT4 vesicle fusion
+1 41 Further work is required to uncover the underling mechanisms by which DOC2b regulates SNARE assembly in response to insulin
+1 42 This protein regulates GLUT4 vesicle fusion as well as glucose uptake in response to insulin stimulation
+1 43 OBJECTIVE—The protein tyrosine phosphatase PTP1B is a negative regulator of insulin signaling; consequently, mice deficient in PTP1B are hypersensitive to insulin
+0 44 mice have diminished fat stores, the extent to which PTP1B directly regulates glucose homeostasis is unclear
+1 45 mice have increased insulin sensitivity independent of changes in adiposity
+1 46 RESEARCH DESIGN AND METHODS—We analyzed body mass/adiposity, insulin sensitivity, glucose tolerance, and lipid metabolism in liver-specific PTP1B
+1 47 mice have increased hepatic insulin signaling, decreased expression of gluconeogenic genes PEPCK and G-6-Pase, enhanced insulin-induced suppression of hepatic glucose production, and improved glucose tolerance
+5 48 In addition to its effects on glucose homeostasis, insulin regulates hepatic lipid metabolism by altering lipogenic gene transcription
+1 49 Furthermore, a study in which high-fructose feeding was used to induce insulin resistance in rats reported a direct association between increased hepatic expression of SREBP1c and PTP1B and suggested a novel mechanism by which PTP1B regulates SREBP1c expression levels by enhancing PP2A activity (43)
+1 50 RESULTSOne of the genes identified by ChIP-chip and linked to glucose sensing and insulin secretion was aryl hydrocarbon receptor nuclear translocator (ARNT)/hypoxia-inducible factor-1
+1 51 expression and regulates glucose-induced insulin secretion from primary mouse islets
+1 52 -cell cGKI had significantly elevated fasting glucose and glucagon levels, whereas serum insulin levels were unchanged
+1 53 Zinc (Zn2+) appears to be intimately involved in insulin metabolism since insulin secretion is correlated with zinc secretion in response to glucose stimulation, but little is known about the regulation of zinc homeostasis in pancreatic beta-cells
+1 54 It is known that the depolarization of beta-cell membrane is coupled with the secretion of insulin
+1 55 Rising intracellular zinc concentration may act as a critical signaling factor in insulin metabolism of pancreatic beta-cells
+1 56 It could also be a mechanism that regulates insulin metabolism or secretion
+1 57 There is little disputing that zinc is involved in beta-cell insulin metabolism; however, whether it regulates insulin metabolism needs to be further studied
+1 58 insulin resistance, diabetes and obesity) and neuropsychiatric disorders has been demonstrated in both human and animal studies, suggesting the possibility that they have shared pathophysiological mechanisms
+1 59 During the past decade, our understanding for the role of insulin in both normal and abnormal central nervous system (CNS) processes has become increasingly refined
+1 60 Evidence indicates that insulin is a pleiotropic peptide, critical to neurotrophism, neuroplasticity, and neuromodulation
+1 61 Moreover, the role of insulin underscores its importance in the development of several neuropsychiatric disorders, including, but not limited to, mechanisms involved in the pathogenesis and progression towards diabetes, obesity, and neurodegenerative disorders, such as Alzheimer's disease
+1 62 during type II diabetes mellitus and obesity) down-regulates insulin receptor expression in the blood brain barrier, characterized by central insulin resistance (reviewed in [79])
+1 63 It is unknown how BACE1 regulates insulin sensitivity, but this study provides further evidence for physiologic BACE1 functions outside the central and peripheral nervous system
+1 64 BACE1 regulates insulin sensitivity, whereas BACE2 regulates insulin secretion

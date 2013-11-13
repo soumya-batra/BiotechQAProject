@@ -1,0 +1,10 @@
+5 04 Highlights•MS/MS identified >37,000 phosphorylation sites in adipocytesInsulin regulates the phosphoproteome over a wide temporal timescaleAkt phosphorylates SIN1 on T86 in response to insulinSIN1 phosphorylation activates a positive feedback loop between Akt and mTORC2
+5 05  This points to mRNA turnover as a major determinant of insulin-regulated cellular growth and demonstrates that insulin regulates cellular processes by coordinated control of numerous signaling pathways that converge on common targets
+2 10 However, it has been reported that decreased endocytosis in response to insulin regulates GLUT4 translocation in adipocytes [46]
+5 13 Models for insulin signalingInsulin regulates essential physiological functions by binding to its cell surface receptors, thereby activating signal transduction pathways that mediate cellular responses
+2 14 Activation of the same pathway by insulin regulates the activity of another SR protein, SRp40, and stimulates the inclusion of an alternative exon in the protein kinase C (PKC) II pre-mRNA [70, 71]
+5 24 These findings suggest that insulin regulates growth independently of metabolism and that the number of insulin receptors is an important determinant of the specificity of insulin action
+5 34 However, the precise mechanism by which insulin regulates SNARE complex assembly remains poorly understood
+5 38 However, the precise mechanism by which insulin regulates vesicle fusion is still largely unknown
+5 40 Based on the above observations, we propose a simple model whereby insulin regulates SNARE regulator DOC2b, and basal level of [Ca2+]i may act in a constitutive manner to promote DOC2b–syntaxin-4 interaction involved in insulin-stimulated GLUT4 vesicle fusion
+5 48 In addition to its effects on glucose homeostasis, insulin regulates hepatic lipid metabolism by altering lipogenic gene transcription
