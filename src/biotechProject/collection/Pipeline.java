@@ -13,19 +13,8 @@ public class Pipeline {
 
 	public static void main(String[] args) throws Exception {
 
-		Question quest = QuestionAnalysis_Claire.userInput2Question();
+		//Question quest = QuestionAnalysis_Claire.userInput2Question();
 		
-		QuestionAnalysis_Claire.printQuestionForTest(quest);
-		
-		ArrayList<Sentence> candidates = FindCandidateSentences.getCandidateSentences(quest);
-		for(Sentence st : candidates){
-			System.out.println(st.getTextString());
-			AnswerAnalysis_Anna.setCandidateAnswers(st.getTextString(), quest);
-		}
-		ArrayList<Answer> Acandidates = AnswerAnalysis_Anna.getCandidateAnswers();
-		for(Answer ans: Acandidates){
-			System.out.println(ans.GetText());
-		}
 	}
 
 }

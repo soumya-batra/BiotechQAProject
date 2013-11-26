@@ -48,7 +48,10 @@ public class FindCandidateSentences {
 		for(Token t:entity)
 			query += (" " + t.getText());
 		
-		query += "\"";
+		query += "\" ";
+		
+		for(Token v : verbs)
+			query += v.getText();
 
 
 		// Only entity names must be added to the query since querying based on

@@ -88,11 +88,16 @@ public class Question {
 			String verbText = questionWord[questionWord.length - 1];
 			this.keywordList.add(new Token(verbText));
 			this.verbList.add(new Token(verbText));
+			this.verbList.addAll(getVerbForms2(verbText));
 			ArrayList<String> verbSynonyms = getVerbSynonyms(questionWord[questionWord.length - 1]);
 			for(String word:verbSynonyms){
-				if(!word.equals(questionWord[questionWord.length - 1]))
+				if(!word.equals(questionWord[questionWord.length - 1])){
 					this.verbList.add(new Token(word));
+					this.verbList.addAll(getVerbForms2(word));
+				}
 			}
+
+			
 			
 			
 		}
@@ -231,7 +236,29 @@ public class Question {
 		
 	}
 
+public static ArrayList<Token> getVerbForms2(String verb){
 
+	ArrayList<Token> forms = new ArrayList<Token>();
+	String t = new String();
+	
+	if(verb.endsWith("s"))
+	{
+		if(verb.endsWith("es"))
+		 t = verb.substring(0,verb.length()-2);
+		else
+		 t = verb.substring(0,verb.length()-1);
+		forms.add(new Token(t+"ing"));
+		forms.add(new Token(t+"ed"));
+		forms.add(new Token(t));
+		forms.add(new Token("has " + t + "ed"));
+		forms.add(new Token("have " + t + "ed"));
+		forms.add(new Token("having " + t + "ed"));
+		forms.add(new Token(t + "ed by"));
+		forms.add(new Token("been" + t + "ed"));
+	}
+	
+	return forms;
+}
 	public String getQuestionString() {
 		return this.questionString;
 	}

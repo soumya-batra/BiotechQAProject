@@ -25,7 +25,7 @@ public class DocScoreTest {
 		}
 		int right = 0;
 		int wrong = 0;
-		Question quest = QuestionAnalysis_Claire.userInput2Question();
+		/*Question quest = QuestionAnalysis_Claire.userInput2Question();
 		for(Sentence st : stList){
 			int flag = 1;
 
@@ -43,5 +43,5 @@ public class DocScoreTest {
 			if(flag ==1){System.out.println(st.getTextString());};
 		}
 		System.out.println(right*1.0/(right+wrong));
-	}
-}
+	}*/
+}}
