@@ -3,14 +3,15 @@ package biotechProject.annotators;
 import indexer.SearchFiles;
 
 import java.io.BufferedReader;
-import java.io.File;
-import java.io.FileNotFoundException;
 import java.io.FileReader;
-import java.io.IOException;
 import java.util.ArrayList;
-import java.util.List;
+import java.util.Collections;
+import java.util.Iterator;
 import java.util.StringTokenizer;
 
+import synonymQuery.GetSynonymFromInfoplease;
+
+import biotechProject.scoreAlgorithms.TokenOverlap;
 import biotechProject.types.Question;
 import biotechProject.types.Sentence;
 import biotechProject.types.Token;
@@ -38,20 +39,13 @@ public class FindCandidateSentences {
 
 		String query = "";
 		
-	/*	for(Token t:verbs)
-			query += (" " + t.getText() + " OR");
-		
-		query = query.substring(0,query.length()-2); */
 		
 		query += "\"";
 		
 		for(Token t:entity)
 			query += (" " + t.getText());
 		
-		query += "\" ";
-		
-		for(Token v : verbs)
-			query += v.getText();
+		query += "\"";
 
 
 		// Only entity names must be added to the query since querying based on
@@ -64,7 +58,7 @@ public class FindCandidateSentences {
 		// of hits, we find the candidate answers in the first 100 documents. If
 		// no result is found, we move to the next 100 and so on
 		int start = 0;
-		int end = Math.min(docPaths.length, 5);
+		int end = Math.min(docPaths.length, 1);
 		for (int j = start; j < end; j++) {
 			String file = docPaths[j];
 			fr = new FileReader(file);
@@ -106,7 +100,6 @@ public class FindCandidateSentences {
 					findCandidates(candidates, space, q, 'A');
 					space = "";
 				}
-				// break; }
 				else if (line.startsWith("<body>")) {
 					while (line.indexOf("</body>") == -1) {
 						body += line;
@@ -115,18 +108,21 @@ public class FindCandidateSentences {
 					break;
 				}
 			}
-			getCandidateFromBody(body, q);
+
+//			Search the body only after finding something in the title or the abstract.
+			if (candidates.size() >= 0) {
+				getCandidateFromBody(body, q);
+			}
+			br.close();
 		}
-		br.close();
+		
+		Collections.sort(candidates);
 		return candidates;
 	}
 
 	private static void findCandidates(ArrayList<Sentence> candidates,
 			String find, Question q, char type) {
 		// TODO Auto-generated method stub
-
-		//ArrayList<Token> tokens = q.getKeywordList();
-		
 		ArrayList<Token> tokens = q.getVerbList();
 		tokens.addAll(q.getNounEntityList());
 		
@@ -149,13 +145,6 @@ public class FindCandidateSentences {
 
 			ArrayList<Token> st2 = (ArrayList<Token>) s.getTokenList();
 
-			// Code for finding exact match has to be written
-			/*
-			 * for(int l = 0; l < st2.size(); l++) { for(int k = 0; k <
-			 * tokens.size(); k++) {
-			 * if(tokens.get(k).equals(st2.get(l).toString())) { i++;
-			 * labels.add(l); } } j++; }
-			 */
 			for (Token t : st2) {
 				for (Token t1 : tokens) {
 					if (t1.getText().equalsIgnoreCase(t.getText()))
@@ -167,12 +156,9 @@ public class FindCandidateSentences {
 
 			if (i > 0) {
 				score = (double) i / j;
-				/*
-				 * switch(type) { case 'T' : score = score* break; case 'A' :
-				 * score = score; break; }
-				 */
-				s.setSentenceScore(score);
-				candidates.add(s);
+				
+				s.setSentenceScore(new TokenOverlap().tokenOverlap(q, s));
+				//candidates.add(s);
 			}
 
 		}
@@ -181,17 +167,56 @@ public class FindCandidateSentences {
 
 	// Written by Haodong
 	private static void getCandidateFromBody(String body, Question q) {
-		StringTokenizer st = new StringTokenizer(body, ".!?");
-		while (st.hasMoreTokens()) {
-			Sentence s = new Sentence(st.nextToken());
-			int flag = 1;
-			for (Token token : q.getKeywordList()) {
-				if (s.getTextString().indexOf(token.getText()) < 0) {
-					flag = 0;
+		String[] st = body.split("[\n.]");
+		//StringTokenizer st = new StringTokenizer(body, ".");
+		ArrayList<Token> verbTokens = q.getVerbList();
+		ArrayList<Token> nounTokens = q.getNounEntityList();
+		ArrayList<String> synonyms = new ArrayList<String>();
+		for (Iterator iterator = nounTokens.iterator(); iterator.hasNext();) {
+			Token token = (Token) iterator.next();
+			synonyms = new GetSynonymFromInfoplease().getSynonyms(token.getText());
+		}
+		for (String string : synonyms) {
+			Token tempToken = new Token(string);
+			nounTokens.add(tempToken);
+		}
+		ArrayList<String> keyWords = new ArrayList<String>();
+		for (Token token : verbTokens) {
+			keyWords.add(token.getText());
+		}
+		for (Token token : nounTokens) {
+			keyWords.add(token.getText());
+		}
+		for(String sentence : st) {
+			//System.out.println(sentence);
+			Sentence s = new Sentence(sentence);
+			int flagV = 0;
+			int vNum = 0;
+			int flagN = 0;
+			int nNum = 0;
+			for (Token token : verbTokens) {
+				if (s.getTextString().indexOf(token.getText()) >= 0) {
+					flagV = 1;
+					break;
 				}
 			}
-			if (flag == 1) {
+			for (Token token : nounTokens) {
+				if (s.getTextString().indexOf(token.getText()) >= 0) {
+					flagN = 1;
+					break;
+				}
+			}
+			int num = 0;
+			if (flagV == 1&&flagN ==1) {
+				ArrayList<Token> tokens = s.getTokenList();
+				for(Token token : tokens){
+					if (keyWords.contains(token.getText())) {
+						num++;
+					}
+				}
+				s.setSentenceScore(1.0*num/tokens.size());
 				candidates.add(s);
+				//System.out.println("candidates from body "+s.getTextString()+" score "+s.getSentenceScore());
 			}
 		}
 	}

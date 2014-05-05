@@ -1,6 +1,5 @@
 package biotechProject.annotators;
 
-import java.util.ArrayList;
 import java.util.Scanner;
 import biotechProject.types.Question;
 import biotechProject.types.Token;
@@ -9,7 +8,6 @@ public class QuestionAnalysis_Claire {
 
 	public static Question userInput2Question(String qString) {
 
-		//Scanner sc = new Scanner(System.in);
 
 		String inputLine = qString;
 		
@@ -22,6 +20,21 @@ public class QuestionAnalysis_Claire {
 
 		return aQuestion;
 
+	}
+	
+	public static Question userInput2Question(){
+		 Scanner input = new Scanner(System.in);
+		 String inputLine = input.nextLine();
+		 input.close();
+		 if(inputLine.charAt(inputLine.length()-1) == '?' ||
+					inputLine.charAt(inputLine.length()-1) == '.' ||
+					inputLine.charAt(inputLine.length()-1) == '!' )
+				inputLine = inputLine.substring(0, inputLine.length() - 1);
+
+			Question aQuestion = new Question(inputLine);
+			return aQuestion;
+		
+		
 	}
 
 	public static void printQuestionForTest(Question q) {
